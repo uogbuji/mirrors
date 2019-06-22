@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Return of the Magus</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="scr.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../javascript/global.js"></script>
+</head>
+
+<body text="#000000" bgcolor="#dcdedd">
+
+		
+<div align="center" onClick="location='index.htm';" id="Layer1" style="position:absolute; left:111px; top:73px; width:678px; height:666px; z-index:1">
+<br>
+<br>
+<br>
+<DIV class="poemtitle">Return of the Magus</DIV><br>
+  <div align="center"><img src="images/returnmagus.jpg"><br>
+  <a class="artistline" href="javascript:goauthor('jones');">art by Pat Jones</a></div><br>
+<TABLE><TR><TD>
+<br><br>
+I came back past mill and creek, having  slept<br />
+with spiders in the womb of a shotgun shack. A light shines<br />
+out of a single house-eye to the hunched back<br />
+of a stand of pine. I smell her body<br />
+as I climb the steps,<br />
+<br />
+crest the landing and birth myself into the room<br />
+like a maggot from its egg. She's laid atop the bed as I left  her,<br />
+bathed in a blood-syrup stench and sculpted whole with clumsy knives<br />
+that I flung when my skin peeled back.<br />
+<br />
+I trundle and bob: too heavy to fly, yet too light to sink below<br />
+the surface. And I see what brought me hovering back:<br />
+a tuft of feather-fur clenched in her fist.<br />
+<br />
+I collect her, toss aside her rags, stagger down stairs<br />
+through the open door, and out to moonless sky,<br />
+as unforgiving as a starling's last glimpse of an owl's belly.<br />
+Where the hemlocks squat,<br />
+<br />
+I bury my burden under the breast of an elk,<br />
+and shall starve in this cove of wolves as I listen for my keep's<br />
+resurgent bones.<br />
+<br />
+My torn ear gentle against a rib:<br />
+the only sounds are insects preening under leaves.<br /><br />
+<br />
+<br>
+<a class="byline" href="javascript:goauthor('musser')">by Charles Musser</a><br><br><br>
+</TD></TR></TABLE>
+</div>
+		
+<div id="Layer2" onClick="location='index.htm';" onMouseOver="this.style.cursor='hand';" style="position:absolute; left:194px; top:12px; width:500px; height:32px; z-index:2"></div>
+<div id="Layer3" onMouseOver="this.style.cursor='hand';" onClick="gopage(-1);" style="position:absolute; left:13px; top:264px; width:88px; height:146px; z-index:3"></div>
+<div id="Layer4" onMouseOver="this.style.cursor='hand';" onClick="gopage(1);" style="position:absolute; left:797px; top:264px; width:88px; height:146px; z-index:4"></div>
+</body>
+</html>

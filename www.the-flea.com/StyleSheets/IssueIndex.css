@@ -1,0 +1,60 @@
+
+body {
+margin-top:0px; font-size: 85%;
+}
+
+#maintext { 
+width: 348px; float: left;  padding-left: 14px; margin-top: 24px; margin-bottom: 12px;
+font-size: 1.0em; line-height: 1.4em;
+}
+
+#page-top {
+height: 120px; 
+background-image: url('../images/bgTop762x120.png'); 
+}
+
+#header {
+height: 112px; border: 0px solid blue;  background-image: url('../images/issueHeadertext.gif'); 
+background-position: 6px 6px; background-repeat: no-repeat; 
+}
+
+h5 {
+font-size: 90%;
+padding:0;
+margin-top: 0.2em; margin-bottom: 0.8em;
+line-height: 1.2em;
+margin-left: 0.9em; text-indent: -0.9em;
+color: #554;
+font-weight: normal; 
+}
+
+#issuedate {
+/*font-family:  Georgia, 'Palatino Linotype', palatino, 'book antiqua', 'bookman old style', serif; */
+color: #776;
+text-align: left;
+padding-top: 76px;
+padding-left: 176px;
+font-size: 137%;
+font-variant: small-caps;
+font-weight: bold;
+}
+
+h1 {
+font-size: 1.5em;
+font-weight: bold;
+font-variant: small-caps; 
+margin-top: 0;
+margin-bottom: 0.6em;
+
+}
+#nav {border-top: 1px solid #EED; }
+
+#nav ul li a, #nav ul li a:hover {padding-left: 12px; padding-right: 12px;} 
+#sidebar { 
+width: 368px; 
+padding: 0; padding-left:0px; padding-right: 8px; padding-top: 24px; 
+margin-bottom: 12px; float: right; text-align: left; 
+color: #887; font-size: 0.87em; line-height: 1.2em; 
+background-image: none; border: none;
+}
+	

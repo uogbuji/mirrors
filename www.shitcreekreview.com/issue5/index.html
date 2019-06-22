@@ -1,0 +1,99 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Shit Creek Review</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style>
+BODY {
+	FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 16px; BACKGROUND-IMAGE:  url(images/homebg.jpg); BACKGROUND-REPEAT: no-repeat; background-color: black;
+}
+A {
+FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 16px; text-decoration: underline; COLOR: black;
+}	
+.byline {
+	FONT-WEIGHT: bold; FONT-STYLE: italic; FONT-SIZE: 14px; COLOR: black; TEXT-DECORATION: none
+}
+.artistline {
+	FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+.poemtitle {
+	FONT-SIZE: 14px; FONT-FAMILY: "Times New Roman", Times, serif; FONT-WEIGHT: bold; text-decoration: none;
+}
+</style>
+<script language="JavaScript" src="../javascript/global.js"></script>
+<script language="JavaScript" src="animfunctions.js"></script>
+<script language="JavaScript">
+function moveThing() {
+	var myObj = document.getElementById("ThingLayer");
+	var myObj2 = document.getElementById("PoemsLayer");
+	myObj.style.display = "block";
+	myObj2.style.display = "block";
+	
+	doPosChangeMem(myObj,[74,829],[74,429],20,60,0.5);
+	// intervalId = setInterval(moveThingOne(myObj),50);
+	// setTimeout(clearInterval(intervalId),5000);
+}
+
+function moveThingOne(myObj) {
+	var x=parseInt(myObj.style.left); // read current position
+	var y=parseInt(myObj.style.top); 
+
+	x+=0; // increment the values
+	y-=3;  
+	
+	myObj.style.left=x+'px'; // set new position
+	myObj.style.top=y+'px'; 
+ }
+
+
+</script>
+</head>
+
+<body>
+<div id="ClickMe" style="position:absolute; left:350px; top:350px;"><a href="javascript:moveThing();">Abandon Hope</a></div>
+<div id="PoemsLayer" align="center" style="position:absolute; left:205px; top:111; width:483px; height:auto; z-index:1; background-color: #FFFFFF; layer-background-color: #FFFFFF; border: 1px none #000000; display:none;">
+<br>
+<a class="poemtitle" href="editorial.html">Editorial</a> <br>
+<a class="poemtitle" href="page1.htm?1">The End of Sacrifice</a> by <a class="byline" href="javascript:goauthor('anderson')">C.B. Anderson</a> <br>
+<a class="poemtitle" href="page2.htm?2">The New House</a> by <a class="byline" href="javascript:goauthor('benedict')"> Kate Bernadette Benedict</a> <br>
+<a class="poemtitle" href="page3.htm?3">Out of the box</a> by <a class="byline" href="javascript:goauthor('brackenbury')">Alison Brackenbury</a> <br>
+<a class="poemtitle" href="page4.htm?4">A Sonnet for Poets</a> by <a class="byline" href="javascript:goauthor('chaffin')">C.E. Chaffin</a> <br>
+<a class="poemtitle" href="page5.htm?5">Travelling Exhibition</a> by <a class="byline" href="javascript:goauthor('epstein')">Richard Epstein</a> <br>
+<a class="poemtitle" href="page6.htm?6">In the Cellar</a> by <a class="byline" href="javascript:goauthor('gary')">Claudia Gary</a> <br>
+<a class="poemtitle" href="page7.htm?7">Not Quite Death in Midsummer</a> by <a class="byline" href="javascript:goauthor('howard-hobson')">Juleigh Howard-Hobson</a> <br>
+<a class="poemtitle" href="page8.htm?8">Waiting</a> by <a class="byline" href="javascript:goauthor('kaber')">Judy Kaber</a> <br>
+<a class="poemtitle" href="page9.htm?9">The Rapture</a> by <a class="byline" href="javascript:goauthor('allinson')">Janet Kenny</a> <br>
+<a class="poemtitle" href="page10.htm?10">July in January</a> by <a class="byline" href="javascript:goauthor('kimball')">Don Kimball</a> <br>
+<a class="poemtitle" href="page11.htm?11">McGonagall’s Warning from the Beyond</a> by <a class="byline" href="javascript:goauthor('mcgonagall')">William McGonagall III</a> <br>
+<a class="poemtitle" href="page12.htm?12">Horror Vacui</a> by <a class="byline" href="javascript:goauthor('maclaurin')">Duncan Gillies MacLaurin</a> <br>
+
+<a class="poemtitle" href="page14.htm?14">The Caterpillar Speaks in Tongues</a> by <a class="byline" href="javascript:goauthor('midgley')">James AL Midgley</a> <br>
+<a class="poemtitle" href="page15.htm?15">Shrine to Satan</a> by <a class="byline" href="javascript:goauthor('mullin')">Rick Mullin</a> <br>
+<a class="poemtitle" href="page16.htm?16">The Tale of the Parrot</a> by <a class="byline" href="javascript:goauthor('murphy')">Kevin Andrew Murphy</a> <br>
+<a class="poemtitle" href="page17.htm?17">Return of the Magus</a> by <a class="byline" href="javascript:goauthor('musser')">Charles Musser</a> <br>
+<a class="poemtitle" href="page18.htm?18">Pitching Poetry</a> by <a class="byline" href="javascript:goauthor('osen')">Frank Osen</a> <br>
+<a class="poemtitle" href="page19.htm?19">Doré’s Engravings</a> by <a class="byline" href="javascript:goauthor('poto')">Rose Poto</a> <br>
+<a class="poemtitle" href="page20.htm?20">The Cricket</a> by <a class="byline" href="javascript:goauthor('rodes')">Thomas Rodes</a> <br>
+<a class="poemtitle" href="page21.htm?21">Coots</a> by <a class="byline" href="javascript:goauthor('roots')">Rik Roots</a> <br>
+<a class="poemtitle" href="page22.htm?22">The Medical Examiner Comments on Resurrection</a> by <a class="byline" href="javascript:goauthor('salemi')">Joseph S. Salemi</a> <br>
+<a class="poemtitle" href="page23.htm?23">the glue makers’ guild</a> by <a class="byline" href="javascript:goauthor('sebastian')">Nic Sebastian</a> <br>
+<a class="poemtitle" href="page24.htm?24">Gandy Dancer of the Phoebe Snow</a> by <a class="byline" href="javascript:goauthor('sheehan')">Tom Sheehan</a> <br>
+<a class="poemtitle" href="page25.htm?25">Monsters' Lament</a> by <a class="byline" href="javascript:goauthor('shepherd')">Salli Shepherd</a> <br>
+<a class="poemtitle" href="page26.htm?26">Mud</a> by <a class="byline" href="javascript:goauthor('wattles')">Lafayette Wattles</a> <br>
+<a class="poemtitle" href="page27.htm?27">Naughty, Naughty</a> by <a class="byline" href="javascript:goauthor('whitworth')">John Whitworth</a> <br>
+<a class="poemtitle" href="page28.htm?28">Garbage</a> by <a class="byline" href="javascript:goauthor('yankevich')">Leo Yankevich</a> <br>
+<a class="poemtitle" href="page29.htm?29">The Horror of Yeats and Hughes</a> by <a class="byline" href="javascript:goauthor('maclaurin')">Duncan Gillies MacLaurin</a> <br>
+<a class="poemtitle" href="page30.htm?30">Clove Smoke</a> by <a class="byline" href="javascript:goauthor('murphy')">Kevin Andrew Murphy</a> <br>
+<a class="poemtitle" href="contributors.html">Contributors</a> <br>
+<a class="poemtitle" href="submissions.html">Submissions</a> <br>
+<a class="poemtitle" href="../pastissues.html">Past Issues</a> <br>
+<a class="poemtitle" href="http://theshitcreekreview.blogspot.com/">Feedback</a> <br>
+<a class="poemtitle" href="friends.html">Friends</a> <br>
+<a class="poemtitle" href="exit.html">Exit, Pursued by The Chimaera</a> <br><br>
+
+</div>
+<div id="ThingLayer" style="position:absolute; left:74px; top:729; width:141px; height:261px; z-index:2; display:none"><img src="images/thing.gif" width="161" height="254"></div>
+<div id="fadercontainer" style="display:none">&nbsp;</div>
+</body>
+
+</html>

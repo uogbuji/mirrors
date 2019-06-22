@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>the glue makers’ guild </title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="scr.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../javascript/global.js"></script>
+</head>
+
+<body text="#000000" bgcolor="#dcdedd">
+
+		
+<div align="center" onClick="location='index.htm';" id="Layer1" style="position:absolute; left:111px; top:73px; width:678px; height:666px; z-index:1">
+<br>
+<br>
+<br>
+<DIV class="poemtitle">the glue makers’ guild </DIV><br>
+  <div align="center"><img src="images/gluemakersguild.jpg"><br>
+  <a class="artistline" href="javascript:goauthor('jones');">art by Pat Jones</a></div><br>
+<TABLE><TR><TD>
+<br>
+<br>
+they labor in sweating cells <br />
+in midnight under the city <br />
+they glide cowled past each other <br />
+<br />
+their eyes never meet - each hugs <br />
+the stain of his own recipe <br />
+to the roiling scars of his body <br />
+<br />
+no talk in the catacombs <br />
+just the stink and boil <br />
+of a thousand cauldrons <br />
+<br />
+the glue makers draw on <br />
+under-cloak ingredients <br />
+won in appalling ways <br />
+for hours they stir and test <br />
+and stir again <br />
+<br />
+when the fire banks itself <br />
+when the hot ferment of the pot <br />
+stills to a fretful murmur <br />
+the glue makers anoint themselves <br />
+with care and blazing eyes <br />
+<br />
+they don borrowed smiles <br />
+and move up into the daylight <br />
+to hunt with deadly purpose <br />
+<br />
+the clean of limb <br />
+the sound of sleep <br />
+the laughing<br />
+<br /><br>
+<br>
+
+<a class="byline" href="javascript:goauthor('sebastian')">by Nic Sebastian</a><br><br><br>
+</TD></TR></TABLE>
+</div>
+		
+<div id="Layer2" onClick="location='index.htm';" onMouseOver="this.style.cursor='hand';" style="position:absolute; left:194px; top:12px; width:500px; height:32px; z-index:2"></div>
+<div id="Layer3" onMouseOver="this.style.cursor='hand';" onClick="gopage(-1);" style="position:absolute; left:13px; top:264px; width:88px; height:146px; z-index:3"></div>
+<div id="Layer4" onMouseOver="this.style.cursor='hand';" onClick="gopage(1);" style="position:absolute; left:797px; top:264px; width:88px; height:146px; z-index:4"></div>
+</body>
+</html>

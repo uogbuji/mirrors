@@ -1,0 +1,48 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>The Medical Examiner Comments on Resurrection</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="scr.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../javascript/global.js"></script>
+</head>
+
+<body text="#000000" bgcolor="#dcdedd">
+
+		
+<div align="center" onClick="location='index.htm';" id="Layer1" style="position:absolute; left:111px; top:73px; width:678px; height:666px; z-index:1">
+<br>
+<br>
+<br>
+<DIV class="poemtitle">The Medical Examiner Comments on Resurrection</DIV><br>
+  <div align="center"><img src="images/resurrection.jpg"><br>
+  <a class="artistline" href="javascript:goauthor('jones');">art by Pat Jones</a></div><br>
+<TABLE><TR><TD>
+<br>
+<br>
+The first sign was a coffin lid that squeaked,<br />
+Then gurgling from a clay-impacted chest.<br />
+Long-frozen joints, once loose, obscenely creaked.<br />
+Putting aside disgust and fear, I pressed<br />
+On to examine temperature and pulse.<br />
+Subnormal readings only&#8212;and I found<br />
+They had no reflexes, but would convulse<br />
+At a car's klaxon, or a trumpet's sound.<br />
+As for their minds, I am not optimistic&#8212;<br />
+The slurred and halting speech showed deep confusion.<br />
+Those who had flesh were gangrenous and phthisic.<br />
+To sum it up, I've come to the conclusion<br />
+That, though they are most certainly alive,<br />
+They cannot gain their health back, much less thrive.<br />
+<br /><br>
+<br>
+
+<a class="byline" href="javascript:goauthor('salemi')">by Joseph S. Salemi</a><br><br><br>
+</TD></TR></TABLE>
+</div>
+		
+<div id="Layer2" onClick="location='index.htm';" onMouseOver="this.style.cursor='hand';" style="position:absolute; left:194px; top:12px; width:500px; height:32px; z-index:2"></div>
+<div id="Layer3" onMouseOver="this.style.cursor='hand';" onClick="gopage(-1);" style="position:absolute; left:13px; top:264px; width:88px; height:146px; z-index:3"></div>
+<div id="Layer4" onMouseOver="this.style.cursor='hand';" onClick="gopage(1);" style="position:absolute; left:797px; top:264px; width:88px; height:146px; z-index:4"></div>
+</body>
+</html>

@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Mud</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="scr.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../javascript/global.js"></script>
+</head>
+
+<body text="#000000" bgcolor="#dcdedd">
+
+		
+<div align="center" onClick="location='index.htm';" id="Layer1" style="position:absolute; left:111px; top:73px; width:678px; height:666px; z-index:1">
+<br>
+<br>
+<br>
+<TABLE><TR><TD><DIV class="poemtitle">Mud</DIV><br>
+<br>
+<br>
+<i>an interpretation of "<a href="http://us.st11.yimg.com/us.st.yimg.com/I/yhst-46915497187481_1970_719165004" target="_blank">Joy of Her World</a>" by<br> Kevin A. Williams</i><br />
+ <br />
+ <br />
+On the barn's rough skin,  <br />
+it's a spider-coffin  <br />
+cradle for a young dirt-dauber.  <br />
+ <br />
+I would have thatched your arm with it  <br />
+had you lived to be stung.  <br />
+What your eyes would have become  <br />
+had they seen the world.  <br />
+ <br />
+Old Miss Talcum, she rejuvenates  <br />
+with it. Says, "It's what all  <br />
+good Christians is made of,"  <br />
+and says it just that way,  <br />
+like words and I have never met.  <br />
+ <br />
+Makes me think of that back road  <br />
+night, those boys chasing him and me.  <br />
+How he was too smart, losing them  <br />
+along the creek. How good it felt  <br />
+between my toes. Things  <br />
+you won't, ever, know.  <br />
+ <br />
+That other time, in town,  <br />
+at the sculpting school, posing  <br />
+on a stool for money.  <br />
+And that tall one said I was  <br />
+the perfect shade.  <br />
+ <br />
+I sometimes wonder,  <br />
+would like to see what he made  <br />
+of his smile and his words,  <br />
+if he's a true man.  <br />
+ <br />
+It's useful for all sorts of things;  <br />
+even keeps wind  <br />
+out of this old cabin some days,  <br />
+but it's the wrong thing for a grave.  <br />
+I told him, but he's out there, now,  <br />
+uprooting the garden  <br />
+with his hands. Making you  <br />
+the best home he can. <br />
+<br /><br>
+<br>
+
+<a class="byline" href="javascript:goauthor('wattles')">by Lafayette Wattles</a><br><br><br>
+</TD></TR></TABLE>
+</div>
+		
+<div id="Layer2" onClick="location='index.htm';" onMouseOver="this.style.cursor='hand';" style="position:absolute; left:194px; top:12px; width:500px; height:32px; z-index:2"></div>
+<div id="Layer3" onMouseOver="this.style.cursor='hand';" onClick="gopage(-1);" style="position:absolute; left:13px; top:264px; width:88px; height:146px; z-index:3"></div>
+<div id="Layer4" onMouseOver="this.style.cursor='hand';" onClick="gopage(1);" style="position:absolute; left:797px; top:264px; width:88px; height:146px; z-index:4"></div>
+</body>
+</html>

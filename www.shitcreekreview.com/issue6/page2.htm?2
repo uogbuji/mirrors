@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Shit Creek Review</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="scr.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../javascript/global.js"></script>
+</head>
+
+<body text="#000000">
+
+		<img src="images/poemlogo.gif">
+<div align="center">
+<br>
+<br>
+<br>
+<DIV class="poemtitle">The Way Out</DIV><br>
+<TABLE><TR><TD>
+<br />
+When the pleasure domes close down for the night<br />
+we gather near the Magic Waterfall<br />
+with hope the cloud of floating droplets might<br />
+provoke another lucky dream, the kind<br />
+our friend Delilah had that made her crawl<br />
+inside a putrid open sewer pipe<br />
+where she discovered lying right behind<br />
+a mound of filthy rags the diamond ring<br />
+of truth.  When she climbed out she smelled as ripe<br />
+as moldy cheese, but smiled and wished us luck<br />
+in our endeavors to secure a thing<br />
+of beauty such as she had found.  It would<br />
+not register till later that the muck<br />
+which grimed the vampish dress and shoes she wore<br />
+began to shimmer slightly as she stood<br />
+there just before she drifted off.  The rest<br />
+of us&#8212;the men and women both&#8212;all swore<br />
+that never after did she show her face<br />
+in old familiar nighttime places, dressed<br />
+to kill.  And so the seething white cascade<br />
+is where we spend our after-hours, to trace<br />
+the path by which her charmed escape was made.<br />
+<br />
+<br>
+<a class="byline" href="javascript:goauthor('anderson')">by C.B. Anderson</a><br></td></tr></table><br><br>
+<br>
+  <img src="images/anderson.jpg"><br>
+  <a class="artistline" href="javascript:goauthor('evans');">art by Justin Evans</a><br>
+<br>
+<br>
+
+<a href="page2.htm?2#" onClick="gopage(-1);"><img src="images/west.gif" border=0></a>
+<a href="indexx.htm"><img src="images/navigation.gif" border=0></a>
+<a href="page2.htm?2#" onClick="gopage(1);"><img src="images/east.gif" border=0></a>
+</div>
+		
+</body>
+</html>

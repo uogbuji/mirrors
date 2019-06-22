@@ -1,0 +1,109 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Exhumation</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="scr.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../javascript/global.js"></script>
+</head>
+
+<body text="#000000" bgcolor="#FFFFdd">
+<table width="950">
+<tr>
+	<td width="160">
+		<img src="images/page6_100-100.gif">
+		<img src="images/corny50-100.gif">
+	</td>
+	<td width="640">
+		<img src="images/corny100-100.gif">
+		<img src="images/bugplucker100-100.gif">
+		<a href="index.htm"><img border="0" src="images/logosm.gif"></a>
+		<img src="images/flyverb100-100.gif">
+		<img src="images/egglover100-100.gif">
+	</td>
+	<td>
+		<img src="images/screwhammer150-100.gif">
+	</td>
+</tr>
+<tr>
+	<td>
+	<img src="images/musictolife150-96.gif"<br>
+<br>
+
+		<img src="images/deflorinator150-150.gif"><br>
+<br>
+		<img src="images/rosegrow150-180.gif">
+	</td>
+	<td valign="top">
+		<table width="100%" cellpadding="15"><tr><td align="right"><img src="images/exhumation.jpg"><br>
+		<div class="artistline">R.K. Sohm</div>
+		</td>
+		<td valign="top">
+		<img src="images/page6.gif">
+		<p><br>
+		  She says she's a gravedigger.
+<br>
+At the bar, several shots in,
+<br>
+and we're talking, the way people 
+<br>
+talk in bars: all surface, little substance.  
+<br>
+But not a digger, exactly.  She exhumes
+<br>
+plots at night, probes the upturned earth
+<br>
+for some sort of explanation, a way to piece
+<br>
+together what she doesn't understand.
+<br>
+She's joking, of course &#8212; people don't
+<br>
+say those kinds of things and mean them.
+<br>
+
+<br>
+But now &#8212; graveyard, 2 a.m.  
+<br>
+She's brought all she needs: 
+<br>
+a pick, shovel, flashlight.  Me.  
+<br>
+I've never seen such grace &#8212; 
+<br>
+the swift motion of breaking the ground, 
+<br>
+her thin body folding and unfolding 
+<br>
+like a flower that blooms and closes all night long.
+
+<br>
+		</p>
+		<br>
+		<a class="byline" href="javascript:goauthor('bunting')">by Rachel Bunting</a>
+		</td></tr></table>
+	</td>
+	<td>
+		<img src="images/wildflowers150-150.gif"><br>
+<br>
+<img src="images/dogdoor150-100.gif"><br>
+		<img src="images/melawncholy150-202.gif">
+	</td>
+</tr>
+<tr>
+	<td>
+		<img src="images/vangogh150-100.gif">
+	</td>
+	<td>
+		<a href="javascript:gopage(-1);"><img border="0" src="images/backhoe.gif"></a>
+		<img src="images/corny100-100.gif"><img src="images/neverbeignored100-100.gif">
+		<img src="images/eggplant100-100.gif">
+		<a href="javascript:gopage(1);"><img border="0" width="150" height="100" src="images/forwardhoe.gif"></a>
+	</td>
+	<td>
+		<img width=150 height="100" src="images/text2.gif">
+	</td>
+</tr>
+</table>
+</body>
+</html>

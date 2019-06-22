@@ -1,0 +1,403 @@
+
+/* INDEX PAGE
+ */
+ 
+body {  
+/* text-align:center; */
+margin-top: 20px;  
+font-family:  georgia, serif; /* 'trebuchet ms', arial, sans-serif; */
+ color: #444; font-size: 105%; /*verdana, 'lucida sans unicode', */
+background: #557; background-image: url('../images/chinese_blue.gif'); background-repeat: repeat; 
+ background-position: top center;
+} 
+
+P {
+margin-top: 0.8em; margin-bottom: 1.2em;
+}
+
+P.tight {
+margin-top: 0.8em; margin-bottom: 0em;
+}
+
+#outer {
+margin-top: 0px;
+margin-left: auto; margin-right: auto; 
+background: #FFF; border: 1px solid #33A;
+/*opacity: 0.95; /* non-MSIE browsers */
+	/* zoom: 100%; needed to enable MS filter */
+	/* filter:progid:DXImageTransform.Microsoft.Alpha(opacity=95);  MSIE */
+}
+
+#bannerblock
+{
+height: 85px; text-align: left; padding:0; padding-bottom: 6px;
+}
+
+#menubar {
+text-align: right; padding: 12px; padding-top: 3px; color: #999; font: 70%/1.1 verdana, arial, tahoma, sans-serif;
+}
+
+#leftcol {
+padding: 8px; padding-top: 150px; 
+background: none;  margin-bottom: 0px; 
+/* background-color: #E8E8E8;*/ 
+font-family: 'trebuchet ms', arial, sans-serif;
+font-size: 75%; line-height: 1.2em; 
+ background-image: url('../images/chim_rep_blue205.png'); 
+background-repeat: no-repeat; background-position: 12px 0px; 
+color: #33A; 
+}
+
+.trans {
+opacity: 0.65;
+zoom: 100%; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=65);  /*MSIE */
+}
+
+#sidetext {
+padding: 0; margin-top: 10px; margin-bottom: 12px; 
+}
+
+
+#leftcol P {
+margin-bottom: 8px; padding:0px; margin-top: 6px; padding-bottom:0px;
+}
+
+
+#menulink {
+text-align: right;
+font-size:90%;
+font-style: italic;
+letter-spacing: 1px;
+}
+ 
+#rightcol {
+background-color: transparent; 
+background-repeat: repeat-all;
+font-size: 75%; line-height: 1.4em; padding: 15px; padding-left: 8px; padding-right: 10px;
+color: #000;
+}
+
+#main_menu {
+font-family: 'trebuchet ms', sans-serif;
+text-align: left;
+margin-top: 1.5em; 
+margin-bottom: 0;
+font-size: 100%;
+}
+
+
+
+#footer {
+padding: 0px; padding-bottom: 1.5em;
+margin-top: 0.2em;
+width: 750px; 
+margin-left:auto; margin-right:auto;
+font: 55%/1.3 verdana, sans-serif; text-align: right;
+color: #eeeeff;
+}
+
+
+h1 { /* page title */
+font: 200%/1.2 'book antiqua', palatino, ' palatino linotype', serif;
+font-weight: normal; letter-spacing: 1px; color: #33A;
+font-style: italic; 
+margin: 0; 
+padding: 0;
+padding-bottom: 0.5em;
+
+}
+
+h2 {  /*page subtitle */
+font: 160%/1.2  'book antiqua', palatino, ' palatino linotype', serif; color: #33A;
+font-weight: normal; font-style: normal;
+margin: 0em; margin-top: 0.2em;
+margin-bottom: 1.5em;
+padding: 0px; padding-top: 0.0em;
+letter-spacing: 0px;
+text-align: left; 
+}
+
+h3 { /*menu section head */
+font-family: 'trebuchet ms', sans-serif;
+font-size: 100%; color: #33A;
+text-transform: uppercase; 
+line-height: 1.2em;
+font-weight: bold;
+font-style: normal; 
+margin-top: 0; 
+padding-top:0; 
+margin-bottom: 0;
+padding-bottom: 0;
+}
+
+/*#left_menu h3 { 
+font-size: 110%;
+line-height: 1.1em;
+font-weight: bold;
+margin-top: 1.4em; margin-bottom: 1.0em;
+border-top: 1px solid #3F85C5;
+}
+
+#right h3 { 
+font-size: 110%;
+line-height: 1.1em;
+font-weight: bold;
+ font-style: italic; 
+margin-top: 1.4em; margin-bottom: 1.0em;
+border-top: 1px solid #3F85C5;
+}
+*/
+
+
+h4 { /* subsubheading */
+font-size: 95%;
+line-height: 1.2em;
+font-weight: bold;
+font-style: normal;
+color: #33A;
+margin-top: 0.6em; margin-bottom: 0.8em; 
+padding: 0;
+}
+
+h5 {
+font-size: 110%; color: #33A;
+line-height: 1.2em;
+font-weight: bold;
+font-style: normal; 
+margin: 0; 
+margin-top: 0.7em;
+margin-bottom: 0.4em;
+padding-top: 0; padding-bottom: 0px;
+}
+
+.tight {
+margin-bottom:0.1em;
+}
+
+.lcol {
+margin-top: 0.8em;
+}
+
+#left_menu h5 {
+font-size: 100%;
+line-height: 1.2em;
+font-weight: normal;
+font-style: normal; 
+margin: 0; 
+margin: 0em; margin-left: 1.4em;
+margin-bottom: 0em;
+padding-top: 0; padding-bottom: 0px;
+}
+
+h6 {
+font-size: 100%;
+line-height: 1.2em; 
+padding-left: 1.0em;
+font-weight: bold;
+padding: 0; margin: 0;
+padding-bottom: 0px;
+margin-top: 0.2em;
+margin-left: 0.7em; 
+/* text-indent: 0.9em;  */
+}
+
+hr {
+color: #33A; height: 1px;
+}
+
+.xt {padding-bottom: 0px; }
+
+.xl {padding-bottom: 2px; }
+
+.ex {margin:0; padding:0; font-size: 85%; line-height: 1.2em; padding-left: 0.4em; display: none}
+
+ul li {
+margin-left:-1.5em; margin-bottom: 1em;
+}
+
+ol li {
+margin-left:-0.7em; margin-bottom: 1em;
+}
+
+.tightlist
+{ 
+margin-bottom: 0.1em 
+}
+
+
+.just {
+text-align: justify
+}
+
+div.just p{
+text-align: justify
+}
+
+.endnote {
+margin-top: 2.5em;
+font-size: 85%; 
+line-height: 1.4em;
+padding-top: 0.8em; 
+border-top: 1px solid #33A;
+}
+
+.endnote P {
+line-height: 1.4em;
+}
+
+P.smaller {
+font-size: 85%;
+line-height: 1.4em;
+margin-bottom: 0.7em;
+}
+
+.takes p {
+margin-top: 0.8em; margin-bottom: 0.7em;
+}
+
+
+
+
+
+
+
+	.selected {
+			font-weight: bold;
+			color: #555;
+			padding-left: 0em;
+			
+	}
+
+
+.chev {
+font-family: verdana; sans-serif; font-size: 120%; font-weight: bold;
+}
+
+.caption {
+margin: 0; padding: 0; font: 90%/1.1 tahoma, arial, sans-serif; 
+text-align: left; 
+}
+
+.image_border {
+margin: 0; margin-top: 0px; padding: 0; margin-bottom: 4px;  width: 100px; height: 50px; overflow: visible;  border: 1px solid #344;
+}
+
+p.dropcap {
+margin-top: 2.2em;
+}
+
+p.dropcap:first-letter {
+font-weight: normal;
+font-size: 3.4em;
+color: #63A5CE; color: #555;
+float: left;
+padding-top: 0px; padding-right: 3px;
+line-height: 83%;
+} 
+
+#uplink {
+text-align: right; font: 70%/1.3 verdana, sans-serif; margin: 0; padding-right: 8px;
+}
+
+ 
+#uplink a:link {color: #A80;  text-decoration: none; font-weight: normal}
+
+#uplink a:visited {color: #A80; text-decoration: none; font-weight:normal}
+
+#uplink a:hover {color: #249; text-decoration: none; font-weight:bold}
+
+#uplink a:active {color: #249; text-decoration: none; font-weight:bold}
+
+
+#maintoc {
+margin-bottom: 0; border: 1px solid #55B; 
+background-color: #EFECED;
+background-image:url('../images/cover2b.jpg'); background-position: top center; background-repeat: no-repeat; 
+}
+
+
+button {
+background-color: #EEEEEE;
+color: #A80;
+}
+
+	select {
+			background: #EEEEEE; color: #A80;
+			padding-left: 0em;
+			
+	}
+/* 	
+#tipdiv {
+position:absolute;top:200px; left:200px;visibility:hidden;background-color:#FFF4DF;color:#000;border:1pt solid #B30;overflow:visible;z-index:999
+} */
+
+#tipdiv {
+position:absolute;top:200px; right:200px;visibility:hidden;
+height: auto;
+color:#33A; background-color:#e7e0d0;border:1pt solid #33A;
+ font: 11px/1.2 Verdana, sans-serif; 
+padding: 3px;overflow: visible; z-index:999; 
+opacity: 0.95; /* non-MSIE browsers */
+	zoom: 100%; /* needed to enable MS filter */
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=95); /* MSIE */
+}
+
+#tipdiv p {
+margin-top: 0.2em;
+margin-bottom: 0.4em;
+}
+
+
+#tipdiv_s { position:absolute;bottom:0px; right:0px;visibility:hidden;background-color: #666; 
+
+opacity: 0.60; /* non-MSIE browsers */
+	zoom: 100%; /* needed to enable MS filter */
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=60); /* MSIE */
+border: none;
+padding: 4px;overflow: visible; z-index:99;
+}
+
+
+
+
+#menubar a:link {color: #A80;  text-decoration: none; font-weight: normal}
+
+#menubar a:visited {color: #A80; text-decoration: none; font-weight: normal}
+
+#menubar a:hover { color: #55B; text-decoration: underline; font-weight: normal}
+
+#menubar a:active {color: #55B; text-decoration: none; font-weight: normal}
+
+
+
+
+a:link { color: #A80; text-decoration: none; font-weight: normal}
+
+a:visited {color: #A80; text-decoration: none; font-weight: normal}
+
+a:hover {color: #55B; text-decoration: none;  font-weight: normal}
+
+a:active {color: #55B; text-decoration: none;}
+
+
+#leftcol a:link {color: #A80;  text-decoration: none; font-weight: normal}
+
+#leftcol a:visited {color: #A80; text-decoration: none; font-weight:normal}
+
+#leftcol a:hover {color: #55B; text-decoration: none; font-weight:normal}
+
+#leftcol a:active {color: #55B; text-decoration: none; font-weight:normal}
+
+
+
+
+
+
+
+#main_menu a:link {color: #A80;  text-decoration: none; font-weight: bold}
+
+#main_menu a:visited {color: #A80; text-decoration: none; font-weight: bold}
+
+#main_menu a:hover {color: #55B; text-decoration: none; font-weight: bold}
+
+#main_menu a:active {color: #55B; text-decoration: none; font-weight:bold}

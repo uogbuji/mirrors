@@ -1,0 +1,359 @@
+
+/* stylesheet for RE/GREY FRAMED template INDEX PAGE
+ */
+ 
+body {  
+/* text-align:center; */
+margin-top: 20px;  
+font-family:  'trebuchet ms', arial, sans-serif; 
+ color: #444; font-size: 105%; /*verdana, 'lucida sans unicode', */
+  background: #73848C; background-image: url('../images/bg_light.jpg'); background-repeat: no-repeat; 
+ 
+/* background-repeat: repeat-x; background-image: url('../images/grad_stripe2.png')
+
+georgia, 'bookman old style', 'century schoolbook', 'calisto mt', 'book antiqua', palatino, 'times new roman', times, serif; color: #000;  text-align: center; */
+
+} 
+
+P {
+margin-top: 0.8em; margin-bottom: 1.2em;
+}
+
+P.tight {
+margin-top: 0.8em; margin-bottom: 0em;
+}
+
+#outer {
+margin-top: 0px;
+margin-left: auto; margin-right: auto; 
+background: #FFF; border: 1px solid #444;
+opacity: 0.85; /* non-MSIE browsers */
+	zoom: 100%; /* needed to enable MS filter */
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=85); /* MSIE */
+}
+
+#bannerblock
+{
+height: 85px; text-align: left; padding:0; padding-bottom: 6px;
+}
+
+#menubar {
+text-align: right; padding: 12px; padding-top: 3px; color: #999; font: 65%/1.1 verdana, arial, tahoma, sans-serif;
+}
+
+#leftcol {
+width: 237px; padding: 11px; padding-top: 150px; 
+background: none;  margin-bottom: 0px; 
+/* background-color: #E8E8E8;
+font-family: verdana, sans-serif;;*/ 
+font-size: 72%; line-height: 1.3em; 
+background-image: url('../images/chimaera_rep_bgreen205.png'); 
+background-repeat: no-repeat; background-position: 12px 0px; 
+color: #444; 
+}
+
+#sidetext {
+padding: 0; margin-top: 10px; margin-bottom: 12px; 
+}
+
+
+#leftcol P {
+margin-bottom: 8px; padding:0px; margin-top: 6px; padding-bottom:0px;
+}
+
+
+#menulink {
+text-align: right;
+font-size:90%;
+font-style: italic;
+letter-spacing: 1px;
+}
+
+#main_menu {
+text-align: left;
+margin-top: 1.5em; 
+margin-bottom: 0;
+font-size: 100%;
+}
+
+ 
+#rightcol {
+background-color: transparent; 
+background-repeat: repeat-all;
+font-size: 75%; line-height: 1.5em; padding: 15px; padding-left: 8px; padding-right: 20px;
+width: 520px; color: #000;
+}
+
+#footer {
+padding: 0px; margin-bottom: 0.5em;
+margin-top: 0.2em;
+width: 750px; 
+margin-left:auto; margin-right:auto;
+font: 55%/1.3 verdana, sans-serif; text-align: right;
+color:#FFF;
+}
+
+
+h1 { /* page title */
+font: 220%/1.2 'book antiqua', palatino, ' palatino linotype', serif;
+font-weight: normal; letter-spacing: 1px; color: #477;
+font-style: italic; 
+margin: 0; 
+padding: 0;
+padding-bottom: 0.5em;
+
+}
+
+h2 {  /*page subtitle */
+font: 170%/1.2  'book antiqua', palatino, ' palatino linotype', serif; color: #477;
+font-weight: normal; font-style: normal;
+margin: 0em; margin-top: 0.2em;
+margin-bottom: 1.5em;
+padding: 0px; padding-top: 0.0em;
+letter-spacing: 0px;
+text-align: left; 
+}
+
+h3 { /*menu section head */
+font-family: Georgia, 'times new roman', serif;
+font-size: 100%; color: #477;
+/* text-transform: uppercase; */
+line-height: 1.2em;
+font-weight: bold;
+font-style: normal; 
+margin-top: 0; 
+padding-top:0; 
+margin-bottom: 0;
+padding-bottom: 0;
+}
+
+/*#left_menu h3 { 
+font-size: 110%;
+line-height: 1.1em;
+font-weight: bold;
+margin-top: 1.4em; margin-bottom: 1.0em;
+border-top: 1px solid #3F85C5;
+}
+
+#right h3 { 
+font-size: 110%;
+line-height: 1.1em;
+font-weight: bold;
+ font-style: italic; 
+margin-top: 1.4em; margin-bottom: 1.0em;
+border-top: 1px solid #3F85C5;
+}
+*/
+
+
+h4 { /* subsubheading */
+font-size: 90%;
+line-height: 1.2em;
+font-weight: bold;
+font-style: normal;
+color: #777;
+margin-top: 0.6em; margin-bottom: 0.8em; 
+padding: 0;
+}
+
+h5 {
+font-size: 100%; color: #477;
+line-height: 1.2em;
+font-weight: bold;
+font-style: normal; 
+margin: 0; 
+margin-top: 0.7em;
+margin-bottom: 0.0em;
+padding-top: 0; padding-bottom: 0px;
+}
+
+
+
+#left_menu H5 {
+font-size: 100%;
+line-height: 1.2em;
+font-weight: normal;
+font-style: normal; 
+margin: 0; 
+margin: 0em; margin-left: 1.4em;
+margin-bottom: 0em;
+padding-top: 0; padding-bottom: 0px;
+}
+
+h6 {
+font-size: 100%;
+line-height: 1.2em; 
+font-weight: bold;
+padding: 0; margin: 0;
+padding-bottom: 0px;
+margin-top: 0.2em;
+margin-left: 0.9em; 
+text-indent: -0.9em;
+}
+
+hr {
+color: #522; height: 1px;
+}
+
+.xp {padding-bottom: 1px; }
+
+.xr {padding-bottom: 0px; }
+
+
+ul li {
+margin-left:-1.5em; margin-bottom: 1em;
+}
+
+ol li {
+margin-left:-0.7em; margin-bottom: 1em;
+}
+
+.tightlist
+{ 
+margin-bottom: 0.1em 
+}
+
+
+.just {
+text-align: justify
+}
+
+div.just p{
+text-align: justify
+}
+
+.endnote {
+margin-top: 2.5em;
+font-size: 85%; 
+line-height: 1.4em;
+padding-top: 0.8em; 
+border-top: 1px solid #3F85C5;
+}
+
+.endnote P {
+line-height: 1.4em;
+}
+
+P.smaller {
+font-size: 85%;
+line-height: 1.4em;
+margin-bottom: 0.7em;
+}
+
+.takes p {
+margin-top: 0.8em; margin-bottom: 0.7em;
+}
+
+
+a:link { color: #870; text-decoration: none; font-weight: normal}
+
+a:visited {color: #870; text-decoration: none; font-weight: normal}
+
+a:hover {color: #CB5; text-decoration: none;  font-weight: normal}
+
+a:active {color: #CB5; text-decoration: none;}
+
+
+#leftcol a:link {color: #870;  text-decoration: none; font-weight: normal}
+
+#leftcol a:visited {color: #870; text-decoration: none; font-weight:normal}
+
+#leftcol a:hover {color: #CB5; text-decoration: none; font-weight:normal}
+
+#leftcol a:active {color: #CB5; text-decoration: none; font-weight:normal}
+
+
+#menubar a:link {color: #870;  text-decoration: none; font-weight: normal}
+
+#menubar a:visited {color: #870; text-decoration: none; font-weight: normal}
+
+#menubar a:hover { color: #CB5; text-decoration: none; font-weight: normal}
+
+#menubar a:active {color: #CB5; text-decoration: none; font-weight: bold}
+
+
+
+
+
+#menulink a:link {color: #870;  text-decoration: none; font-weight: normal}
+
+#menulink a:visited {color: #870; text-decoration: none; font-weight: normal}
+
+#menulink a:hover {color: #CB5; text-decoration: underline; font-weight: normal}
+
+#menulink a:active {color: #CB5; text-decoration: none; font-weight: normal}
+
+
+#menubar a:link {color: #870;  text-decoration: none; font-weight: normal}
+
+#menubar a:visited {color: #870; text-decoration: none; font-weight: normal}
+
+#menubar a:hover { color: #CB5; text-decoration: none; font-weight: normal}
+
+#menubar a:active {color: #CB5; text-decoration: none; font-weight: bold}
+
+
+
+	.selected {
+			font-weight: bold;
+			color: #555;
+			padding-left: 0em;
+			
+	}
+
+
+.chev {
+font-family: verdana; sans-serif; font-size: 120%; font-weight: bold;
+}
+
+.caption {
+margin: 0; padding: 0; font: 90%/1.1 tahoma, arial, sans-serif; 
+text-align: left; 
+}
+
+.image_border {
+margin: 0; margin-top: 0px; padding: 0; margin-bottom: 4px;  width: 100px; height: 50px; overflow: visible;  border: 1px solid #344;
+}
+
+
+
+
+p.dropcap {
+margin-top: 2.2em;
+}
+
+p.dropcap:first-letter {
+font-weight: normal;
+font-size: 3.4em;
+color: #63A5CE; color: #555;
+float: left;
+padding-top: 0px; padding-right: 3px;
+line-height: 83%;
+} 
+
+#uplink {
+text-align: right; font: 70%/1.3 verdana, sans-serif; margin: 0; padding-right: 8px;
+}
+
+ 
+#uplink a:link {color: #744;  text-decoration: none; font-weight: normal}
+
+#uplink a:visited {color: #744; text-decoration: none; font-weight:normal}
+
+#uplink a:hover {color: #522; text-decoration: none; font-weight:bold}
+
+#uplink a:active {color: #522; text-decoration: none; font-weight:bold}
+
+
+
+
+button {
+background-color: #EEEEEE;
+color: #789;
+}
+
+	select {
+			background: #EEEEEE; color: #789;
+			padding-left: 0em;
+			
+	}

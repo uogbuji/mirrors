@@ -1,0 +1,101 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Shotgun</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="scr.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../javascript/global.js"></script>
+</head>
+
+<body text="#000000" bgcolor="#FFFFdd">
+<table width="945">
+<tr>
+	<td>
+		<img src="images/screwhammer150-100.gif">
+	</td>
+	<td width="645">
+		<img src="images/neverbeignored100-100.gif">
+		<img src="images/bugplucker100-100.gif">
+		<a href="index.htm"><img border="0" src="images/logosm.gif"></a>
+		<img src="images/roselettuce100-100.gif">
+		<img src="images/flyverb100-100.gif">
+	</td>
+	<td>
+		<img src="images/musictolife150-96.gif">
+	</td>
+</tr>
+<tr>
+	<td>
+		<img src="images/text3.gif" width="150"><br><br>
+
+		<img src="images/page22_150-150.gif"><br><br>
+		<img src="images/rosegrow150-180.gif">
+	</td>
+	<td valign="top">
+		<table width="100%" cellpadding="15"><tr><td align="right"><img src="images/shotgun.jpg">
+		<div class="artistline">R.K. Sohm</div>
+		</td>
+		<td valign="top">
+		<img src="images/page22.gif">
+		<p><br>
+His smoke shoots down her throat, an urgent stream<br>
+she likes the more because of where it's been.
+<br>
+He's giving it to her. She takes it in.
+<br>
+It's not the weed that makes her green eyes gleam,
+<br>
+but pride. Ha! If only Mary Ann
+<br>
+could see her now! Those skinny twelve-year-old
+<br>
+St. Paulsies with their clammy hands can't hold
+<br>
+a candle to this dreamy, mustached man.
+<br>
+
+<br>
+He whispers, "God, I shouldn't be doing this."
+<br>
+Forbidden! Secret! Sin! The trinity
+<br>
+of yumminess. A woman of mystery,
+<br>
+she's snaring him with her seductive wiles.
+<br>
+"Aw, don't be such a wuss." They quasi-kiss
+<br>
+again. His lashes lower: two black smiles.
+
+
+<br>
+		</p>
+		<br>
+		<a class="byline" href="javascript:goauthor('poto')">by Rose Poto</a>
+		</td></tr></table>
+	</td>
+	<td>
+		<img src="images/dogdoor150-100.gif">
+		<img src="images/wildflowers150-150.gif"><br><br>
+		<img src="images/text2.gif" width="150">
+	</td>
+</tr>
+<tr>
+	<td>
+		<img src="images/caninerepellant150-93.gif">
+	</td>
+	<td>
+		<a href="javascript:gopage(-1);"><img border="0" src="images/backhoe.gif"></a>
+		<img src="images/eggplant100-100.gif">
+		<img src="images/corny100-100.gif">
+		<img src="images/exoticfruit50-100.gif">
+		<img src="images/corny50-100.gif">
+		<a href="javascript:gopage(1);"><img border="0" width="150" height="100" src="images/forwardhoe.gif"></a>
+	</td>
+	<td>
+		<img width=150 height="100" src="images/text6.gif">
+	</td>
+</tr>
+</table>
+</body>
+</html>

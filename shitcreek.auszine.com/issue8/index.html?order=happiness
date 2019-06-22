@@ -1,0 +1,71 @@
+<script language="javascript">
+function pageLoad(url) {
+/* if (location.search.indexOf("order") > 0)
+   location=url;
+else if ( url.indexOf('editorial') < 1 ) {
+   if ( confirm("The best way to read this issue of the Shit Creek Review is to start with the Editorial, which is why it's listed first, and then to proceed one page at a time in the proscribed order, which is fastidiously alphabetical, unto the end, at which point you can finally allow yourself to stop. If you continue with your current course, we can't guarantee your house won't go crashing in on you, or some other terrible thing. Do you still wish to proceed?") )
+       location = url;
+} else
+ */  location = url;
+
+}
+</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>SCR &raquo; Issue 8 — Obsession and Compulsion</title>
+	
+	<meta name="generator" content="WordPress 2.8.4" /> <!-- leave this for stats please -->
+
+<style type="text/css" media="screen">
+@import url(http://shitcreek.auszine.com/wp-content/themes/CMS1/style_i8index.css) ;
+</style>
+
+	
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='SCR' href='../index.html' />
+<meta name="generator" content="WordPress 2.8.4" />
+<script type="text/javascript" src="../wp-content/themes/CMS1/scrcms.js"></script>
+</head>
+
+<body>
+	<div id="container">
+<!-- Reuse title image? -->
+		<div id="header"><a href="../index.html" title="site home page" class="main_title"><img src="../wp-content/uploads/issue7/scr_home_title.gif" width="380" height="28" alt="The Shit Creek Review" title="Back to site home page" /></a></div>
+
+
+<div id="indexcontent">
+	
+				<div class="post" id="post-181">
+		  <h1>Issue 8 — Obsession and Compulsion</h1>
+			<div class="entry">
+							</div>
+		</div>
+				
+			
+	<!-- 2-column table of contents for the issue No need for sequence numbering ; use the pageMash visual sequencing -->	
+	<table width="99%" cellpadding="6" border="0"><tr><td valign="top" width="300" class="issue_contents">
+	<p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/editorial/')" title="Go to the page">Editorial</a></p><p class="spacer">&nbsp;</p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/poem-1/')" title="Go to the page">Good Medicine</a>&nbsp; by <a href = "contributors/index.html#bio182" class="byline" title="About the author">Elizabeth Barbato</a></p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/poem-2/')" title="Go to the page">Matches</a>&nbsp; by <a href = "contributors/index.html#bio184" class="byline" title="About the author">Bob Bradshaw</a></p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/poem-3/')" title="Go to the page">The Space Between</a>&nbsp; by <a href = "contributors/index.html#bio187" class="byline" title="About the author">Sally Clark</a></p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/poem-4/')" title="Go to the page">Going Under</a>&nbsp; by <a href = "contributors/index.html#bio188" class="byline" title="About the author">Sally Cook</a></p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/polly-phobic/')" title="Go to the page">Polly Phobic</a>&nbsp; by <a href = "contributors/index.html#bio197" class="byline" title="About the author">K.R. Copeland</a></p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/ritual/')" title="Go to the page">Ritual</a>&nbsp; by <a href = "contributors/index.html#bio199" class="byline" title="About the author">Brent Fisk</a></p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/etruscan-tomb-an-inventory/')" title="Go to the page">Etruscan Tomb: An Inventory</a>&nbsp; by <a href = "contributors/index.html#bio200" class="byline" title="About the author">Andrew Frisardi</a></p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/gibbous/')" title="Go to the page">Gibbous</a>&nbsp; by <a href = "contributors/index.html#bio200" class="byline" title="About the author">Andrew Frisardi</a></p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/fingerprint/')" title="Go to the page">Fingerprint</a>&nbsp; by <a href = "contributors/index.html#bio204" class="byline" title="About the author">Robin Helweg-Larsen</a></p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/a-womans-work/')" title="Go to the page">A Woman's Work</a>&nbsp; by <a href = "contributors/index.html#bio205" class="byline" title="About the author">Sonia Hendy-Isaac</a></p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/ring-fingers/')" title="Go to the page">Ring Fingers</a>&nbsp; by <a href = "contributors/index.html#bio207" class="byline" title="About the author">Tammy Ho Lai-ming</a></p></td><td valign="top"><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/unmended-daughter/')" title="Go to the page">Unmended daughter</a>&nbsp; by <a href = "contributors/index.html#bio208" class="byline" title="About the author">Christine Klocek-Lim</a></p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/as-the-back-is-broken-by-what-is-lifted-from-it/')" title="Go to the page">As The Back Is Broken By What Is Lifted From It</a>&nbsp; by <a href = "contributors/index.html#bio210" class="byline" title="About the author">Geoff McLain</a></p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/who-calls-its-children-to-their-altars/')" title="Go to the page">Who Calls Its Children To Their Altars</a>&nbsp; by <a href = "contributors/index.html#bio210" class="byline" title="About the author">Geoff McLain</a></p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/originality/')" title="Go to the page">Originality</a>&nbsp; by <a href = "contributors/index.html#bio211" class="byline" title="About the author">Henry Quince</a></p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/vain/')" title="Go to the page">Vain</a>&nbsp; by <a href = "contributors/index.html#bio212" class="byline" title="About the author">E. Shaun Russell</a></p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/cutting/')" title="Go to the page">Cutting</a>&nbsp; by <a href = "contributors/index.html#bio213" class="byline" title="About the author">Janice D. Soderling</a></p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/a-poets-prayer/')" title="Go to the page">A Poet’s Prayer</a>&nbsp; by <a href = "contributors/index.html#bio216" class="byline" title="About the author">John Whitworth</a></p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/mustnt-grumble/')" title="Go to the page">Mustn't Grumble</a>&nbsp; by John Whitworth</a></p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/the-courteous-reply-of-the-australian-vic-richardson-in-response-to-a-complaint-from-the-england-cricket-captain-douglas-jardine-concerning-obscenity/')" title="Go to the page">The Courteous Reply of the Australian Vic Richardson in Response to a Complaint from the England Cricket Captain Douglas Jardine Concerning Obscenity </a>&nbsp; by <a href = "contributors/index.html#bio216" class="byline" title="About the author">John Whitworth</a></p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/drowning-in-a-dream-of-water/')" title="Go to the page">Drowning in a Dream of Water</a>&nbsp; by <a href = "contributors/index.html#bio217" class="byline" title="About the author">Amanda Yskamp</a></p><p class="spacer">&nbsp;</p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/contributors/')" title="Go to the page">Contributors</a></p><p class="issue_contents"><a href="javascript:pageLoad('http://shitcreek.auszine.com/issue8/sumissions-8/')" title="Go to the page">Submissions</a></p>	</td></tr></table>
+	<br /><br />
+	
+	
+	<div id="footer">Powered by <a href="http://wordpress.org" target="_blank">WordPress</a> 
+	</div>
+
+		
+
+	</div> <!-- End indexcontent -->
+	
+		
+</div> <!-- End container -->
+<script language="javascript">
+window.onresize = positionMask;
+</script>
+</body>
+</html>
+
+	
+

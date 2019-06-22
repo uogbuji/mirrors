@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Shrine to Satan</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="scr.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../javascript/global.js"></script>
+</head>
+
+<body text="#000000" bgcolor="#dcdedd">
+
+		
+<div align="center" onClick="location='index.htm';" id="Layer1" style="position:absolute; left:111px; top:73px; width:678px; height:666px; z-index:1">
+<br>
+<br>
+<br>
+<DIV class="poemtitle">Shrine to Satan</DIV><br>
+  <div align="center"><img src="images/shrine.jpg"><br>
+  <a class="artistline" href="javascript:goauthor('jones');">art by Pat Jones</a></div><br>
+<TABLE><TR><TD>
+<br><br>
+ <br />
+The neighbor's child has built a muddy shrine<br />
+to Satan in our yard. And I'm supposed <br />
+to cut the lawn? OK, but look at those<br />
+croquet clubs that she used (good God, they're <i>mine</i>)<br />
+to pound her pentagrams of chicken bone<br />
+into the ground. The handles are unscrewed<br />
+from all the hammer heads. It's kind of shrewd<br />
+the way she placed that Playskool&trade; telephone.<br /><br />
+Still, little girls should not touch garden tools<br />
+or take the plastic rake out of the shed--<br />
+she's tied it with those jump ropes to the tree.<br />
+A shattered flower pot. The Barbie head.<br />
+Horrific how this child has learned the rules<br />
+of Belial for sculpting in debris.<br /><br />
+<br />
+<br><br>
+<a class="byline" href="javascript:goauthor('mullin')">by Rick Mullin</a><br><br><br>
+</TD></TR></TABLE>
+</div>
+		
+<div id="Layer2" onClick="location='index.htm';" onMouseOver="this.style.cursor='hand';" style="position:absolute; left:194px; top:12px; width:500px; height:32px; z-index:2"></div>
+<div id="Layer3" onMouseOver="this.style.cursor='hand';" onClick="gopage(-1);" style="position:absolute; left:13px; top:264px; width:88px; height:146px; z-index:3"></div>
+<div id="Layer4" onMouseOver="this.style.cursor='hand';" onClick="gopage(1);" style="position:absolute; left:797px; top:264px; width:88px; height:146px; z-index:4"></div>
+</body>
+</html>

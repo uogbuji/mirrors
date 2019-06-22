@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Shit Creek Review</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="scr.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../javascript/global.js"></script>
+</head>
+
+<body text="#000000">
+
+		<img src="images/poemlogo.gif">
+<div align="center">
+<br>
+<br>
+<br>
+<DIV class="poemtitle">Warrington</DIV><br>
+<TABLE><TR><TD>
+<br /> 
+<i>Is there another stop in Warrington?</i><br />
+asked the boy, as the train gathered speed<br />
+out of Warrington Bank Quay station<br />
+headed for Stoke on Trent. I didn't need<br />
+<br />
+to say a thing&#8212;like a policeman<br />
+at the door, my bad news could be inferred.<br />
+He bowed his forehead to his lager can.<br />
+<i>Welcome to the future, son,</i> I whispered.<br />
+
+<br><br>
+
+<a class="byline" href="javascript:goauthor('payne')">by Stephen Payne</a></td></tr></table><br><br>
+<br>
+  <img src="images/warrington.jpg"><br>
+  <a class="artistline" href="javascript:goauthor('evans');">art by Justin Evans</a><br>
+<br>
+<br>
+
+<a href="page23.htm?23#" onClick="gopage(-1);"><img src="images/west.gif" border=0></a>
+<a href="indexx.htm"><img src="images/navigation.gif" border=0></a>
+<a href="page23.htm?23#" onClick="gopage(1);"><img src="images/east.gif" border=0></a>
+</div>
+		
+</body>
+</html>

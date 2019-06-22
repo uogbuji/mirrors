@@ -1,0 +1,610 @@
+
+/* stylesheet for text pages at Feb2009
+ */
+ 
+body {  
+/* text-align:center; */
+margin-top: 6px;  
+font-family:  georgia, serif ;
+ color: #000; font-size: 100%; 
+ background: #5F6388; background-image: url('../images/chinese_blue.gif'); background-repeat: repeat; 
+ background-position: top left;
+} 
+
+P {
+margin-top: 0.8em; margin-bottom: 1.2em;
+}
+
+P.tight {
+margin-top: 0.8em; margin-bottom: 0em;
+}
+
+#outer {
+margin-top: 0px;
+margin-left: auto; margin-right: auto; 
+background: #FFF; border: 1px solid #33A;
+margin-top: 12px;
+margin-bottom: 2px;
+opacity: 0.95; 
+	zoom: 100%; 
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=95); MSIE
+}
+
+.transtext {
+opacity: 0.0; /* non-MSIE browsers */
+	zoom: 100%; /* needed to enable MS filter */
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=100); /* MSIE */
+}
+
+
+#titleblock
+{
+margin-left:auto; margin-right:auto; font: 11pt/1.3 'trebuchet ms', sans-serif;
+}
+
+
+#leftcol {
+width: 206px; padding: 5px; padding-top: 108px; 
+margin-bottom: 0px; 
+font-family: verdana, sans-serif;
+font-size: 70%; line-height: 1.3em; 
+/* background-color: #E8E8E8;*/ 
+/* background-image: url('../images/emb130.png');*/ background-image: url('../images/ch_greyemb130.gif'); 
+background-repeat: no-repeat; background-position: 37px 8px; 
+color: #33A; 
+}
+
+#menubar {
+text-align: right; padding: 12px; padding-top:3px; 
+font: 65%/1.1 verdana, arial, tahoma, sans-serif;
+color: #999;
+}
+
+#np {
+width: 95%; padding: 3px;  padding-right:20px; padding-left:15px; 
+background: none;  margin-bottom: 0px; 
+color: #33A; 
+font-family: verdana, sans-serif;
+font-size: 65%; line-height: 1.3em; 
+}
+
+#sidetext {
+padding: 0; margin-top: 10px; margin-bottom: 12px; 
+}
+
+#leftcol P {
+margin-bottom: 8px; padding:0px; margin-top: 6px; padding-bottom:0px;
+}
+
+
+#menulink {
+text-align: right;
+font-size:90%;
+font-style: italic;
+}
+
+#left_menu {
+display: none;
+text-align: left;
+background-color: #eeeeff; 
+padding: 5px; padding-bottom:12px;
+border-top: 1px solid #33A;
+border-bottom: 1px solid #33A;
+}
+
+ 
+#rightcol {
+background-color: transparent; 
+background-repeat: repeat-all;
+font-size: 80%; line-height: 1.4em; padding: 15px; padding-left: 20px; padding-right: 10px; 
+width: 520px; color: #000;
+}
+
+#footer {
+width: 750px;
+margin-left:auto; margin-right:auto;
+padding: 0px; margin-bottom: 0.5em;
+margin-top: 0.2em; color: #eeeeff;
+font: 55%/1.3 verdana, sans-serif; text-align: right;
+}
+
+
+h1 { /* page title */
+font: 200%/1.2 'trebuchet ms', arial, sans-serif; 
+color: #33A;
+letter-spacing: 0px; /* color: #33A */;
+font-weight: normal; 
+margin: 0; 
+padding: 0;
+}
+
+h2 {  /*page subtitle */
+font: 145%/1.2 'trebuchet ms', arial, sans-serif; /* color: #33A */;
+font-weight: normal; font-style: normal;
+margin: 0em; margin-top: 0.7em;
+margin-bottom: 1.5em;
+padding: 0px; 
+letter-spacing: 0px;
+text-align: left; 
+}
+
+h3 { /*poem heading */
+font-family: 'trebuchet ms', arial, sans-serif; 
+font-size: 145%; color: #33A;
+line-height: 1.3em;
+font-weight: normal;
+/* font-style: italic; */
+margin-top: 2.2em; margin-bottom: 1.2em;
+border: none;
+}
+
+h3.top {
+margin-top: 1em;
+
+}
+
+#left_menu h3 { 
+font-family: 'trebuchet ms', arial, sans-serif; 
+font-size: 100%; color: #33A;
+line-height: 1.2em;
+font-weight: bold;
+/* font-style: italic; */
+margin-top: 1.0em; margin-bottom: 0.3em;
+padding-top: 2px;
+border-top: 0px solid #33A;
+
+}
+
+
+
+
+h4 { /* subheading or poem title*/
+font-family: 'trebuchet ms', serif; 
+font-size: 140%;
+line-height: 1.2em;
+font-weight: normal;
+font-style: normal;
+color: #000;
+margin-top: 2.5em; margin-bottom: 1.0em; 
+padding: 0;
+}
+
+h5 {
+font-size: 120%; color: #777;
+line-height: 1.3em;
+font-weight: bold;
+font-style: normal; 
+margin: 0; 
+margin-top: 1.6em;
+margin-bottom: 0.7em;
+padding-top: 0; padding-bottom: 0px;
+}
+
+
+
+#left_menu H5 {
+font-size: 100%;
+line-height: 1.2em;
+font-weight: normal;
+font-style: normal; 
+margin: 0; 
+margin: 0em; margin-left: 1.4em;
+margin-bottom: 0em;
+padding-top: 0; padding-bottom: 0px;
+}
+
+h6 {
+font-size: 100%;
+line-height: 1.2em; 
+margin-left: 1.4em; 
+text-indent: -1.4em;
+font-weight: bold;
+padding: 0; margin: 0;
+padding-bottom: 0px;
+margin-top: 0.1em;
+}
+
+
+
+
+hr {
+color:#33A; height: 1px;
+}
+
+ul li {
+margin-left:-1.5em; margin-bottom: 1em;
+}
+
+ol li {
+margin-left:-0.8em; margin-bottom: 1em;
+}
+
+.tightlist
+{ 
+margin-bottom: 0.1em 
+}
+
+
+.just {
+text-align: justify;
+padding-right: 8px;
+}
+
+div.just p{
+text-align: justify
+}
+
+.epigraph {
+font-size: 90%;
+line-height: 1.3em;
+margin-top: 1.5em;
+margin-bottom: 2em;
+}
+
+.endnote {
+margin-top: 2.5em;
+margin-bottom: 2.5em;
+font-size: 90%; 
+line-height: 1.3em;
+border-top: 0px solid #666;
+}
+
+.endnote P {
+line-height: 1.3em;
+}
+
+.bionote {
+color: #33A;
+margin-top: 2.5em;
+margin-bottom: 2.5em;
+font-size: 87%; 
+line-height: 1.4em;
+padding-top: 5px;
+border-top: 1px solid #33A;
+}
+
+p.smaller {
+font-size: 87%;
+line-height: 1.3em;
+margin-bottom: 0.8em;
+}
+
+li.smaller {
+font-size: 87%;
+line-height: 1.3em;
+margin-bottom: 0.7em;
+}
+
+
+td.smaller {
+font-size: 87%; font-face: tahoma, sans-serif;
+line-height: 1.3em;
+margin-bottom: 0.7em;
+}
+
+
+.takes p {
+margin-top: 0.8em; margin-bottom: 0.7em;
+}
+
+
+
+a:link { color: #A80; text-decoration: underline; font-weight: normal}
+
+a:visited {color: #A80; text-decoration: underline; font-weight: normal}
+
+a:hover {color: #55B; text-decoration: underline, overline;  font-weight: normal}
+
+a:active {color: #55B; text-decoration: none;  font-weight: normal}
+
+
+#leftcol a:link {color: #A80;  text-decoration: none; font-weight: normal}
+
+#leftcol a:visited {color: #A80; text-decoration: none; font-weight:normal}
+
+#leftcol a:hover {color: #55B; text-decoration: none; font-weight:normal}
+
+#leftcol a:active {color: #55B; text-decoration: none; font-weight:normal}
+
+
+#menubar a:link {color: #A80;  text-decoration: none; font-weight: normal}
+
+#menubar a:visited {color: #A80; text-decoration: none; font-weight: normal}
+
+#menubar a:hover { color: #55B; text-decoration: underline; font-weight: normal}
+
+#menubar a:active {color: #55B; text-decoration: none; font-weight: normal}
+
+
+
+/*
+
+a:link { color: #870; text-decoration: none; font-weight: normal}
+
+a:visited {color: #870; text-decoration: none; font-weight: normal}
+
+a:hover {color: #CB5; text-decoration: none;  font-weight: normal}
+
+a:active {color: #CB5; text-decoration: none;}
+
+
+#leftcol a:link {color: #870;  text-decoration: none; font-weight: normal}
+
+#leftcol a:visited {color: #870; text-decoration: none; font-weight:normal}
+
+#leftcol a:hover {color: #CB5; text-decoration: none; font-weight:normal}
+
+#leftcol a:active {color: #CB5; text-decoration: none; font-weight:normal}
+
+
+#menubar a:link {color: #870;  text-decoration: none; font-weight: normal}
+
+#menubar a:visited {color: #870; text-decoration: none; font-weight: normal}
+
+#menubar a:hover { color: #CB5; text-decoration: none; font-weight: bold}
+
+#menubar a:active {color: #CB5; text-decoration: none; font-weight: bold}
+*/
+
+	.selected {
+			font-weight: normal;
+			color: #33A;
+			padding-left: 0em;
+			margin-left: 1.4em; text-indent: -1.4em;
+	}
+
+
+	.menulink {
+		margin-left: 1.4em; text-indent: -1.4em;
+	}
+	
+.chev {
+font-family: verdana; sans-serif; font-size: 120%; font-weight: bold;
+}
+
+.caption {
+margin: 0; padding: 0; font: 90%/1.1 tahoma, arial, sans-serif; 
+text-align: left; 
+}
+
+.image_border {
+margin: 0; margin-top: 0px; padding: 0; margin-bottom: 4px;  width: 100px; height: 50px; overflow: visible;  border: 1px solid #33A;
+}
+
+
+p.blockbegin {
+margin-top: 1.6em;
+}
+
+
+p.dropcap {
+margin-top: 2.2em;
+}
+
+p.dropcap:first-letter {
+font-family: Georgia, 'Times New Roman', serif;
+font-weight: normal;
+font-size: 3.5em;
+color: #777;
+float: left;
+margin-top: 5px; padding-right: 3px;
+line-height: 74%;
+} 
+
+.drop  {
+font-family: Georgia, 'Times New Roman', serif;
+float: left; color: #777;
+font-size: 3.5em;
+line-height: 74%;
+padding-top: 5px; padding-right:1px
+}
+
+
+
+.dropsmall  {
+font-family: Georgia, 'Times New Roman', serif;
+float: left; color: #777;
+font-size: 2.7em;
+line-height: 74%;
+padding-top: 5px; padding-right:1px
+}
+
+
+div.textbox {
+width: 200px; 
+padding: 8px; 
+border: 1px solid #33A;
+}
+
+#uplink {
+text-align: right; font: 65%/1.3 verdana, sans-serif; margin: 0; padding-right: 8px;
+}
+
+ 
+#uplink a:link {color: #A80;  text-decoration: none; font-weight: normal}
+#uplink a:visited {color: #A80; text-decoration: none; font-weight:bold}
+#uplink a:hover {color: #55B; text-decoration: none; font-weight:bold}
+#uplink a:active {color: #55B; text-decoration: none; font-weight:bold}
+
+
+button {
+background-color: #EEEEEE;
+color: #777;
+}
+
+	select {
+			background: #EEEEEE; color: #777;
+			padding-left: 0em;
+	}
+	
+	blockquote {
+	text-align: left;
+}
+	
+div blockquote, div blockquote p {
+text-align: left;
+}
+
+.pullquote {
+ padding:0; margin:4px;
+ padding-bottom: 3px; padding-top: 3px;
+ margin-left: 12px; margin-right: 0px; margin-bottom:2px;
+ border-top: 2px solid #999;
+ border-bottom: 2px solid #999;
+  }
+
+.pullquote_left {
+ padding: 0;  margin: 4px; 
+ padding-bottom: 3px; padding-top: 3px;
+ margin-right: 12px; margin-left: 0px; margin-bottom: 2px;
+ border-top: 2px solid #777;
+ border-bottom: 2px solid #777;
+ }
+  
+ .pullquote_right {
+ padding: 0; margin: 4px;
+ padding-bottom: 3px; padding-top: 3px;
+ margin-left: 12px; margin-right: 0px; margin-bottom:  2px;
+ border-top: 2px solid #777;
+ border-bottom: 2px solid #777;
+ }
+
+#botright {
+position: absolute;
+bottom:0; right:0;
+width: 130px; height: 90px;
+border: 0px solid blue;
+z-index: 0;
+background-image: url('PTMFOG0000000385.gif');
+}
+
+div.unspaced {
+margin-top: 0.7em; margin-bottom: 1.7em;
+text-align: justify;
+padding-right: 8px;
+}
+
+div.unspaced p {
+margin: 0;
+text-indent: 3.5em;
+text-align: justify;
+}
+
+div.hanging p {
+margin: 0;
+margin-left: 3em; 
+text-indent: -3em; 
+}
+
+p.hanging {
+margin-left: 3em; 
+text-indent: -3em; 
+}
+
+.trans {
+opacity:0.7; /* non-MSIE browsers */
+	zoom:100%; /* needed to enable MS filter */
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=70); /* MSIE */
+}
+
+.menuex {
+width:98%; padding:3px; padding-bottom:7px; padding-top:0;
+background-color: #eeeeff;
+border: 1px solid #DDD; 
+margin-top:1.4em; margin-bottom:1em;
+}
+
+.menuex h3{
+margin-top: 0;
+}
+
+.section {
+color:#666; 
+margin-bottom: 0;
+text-transform: uppercase;
+}
+
+.fsection {
+color: #70737A; 
+margin-bottom: 0; margin-top: 0.2em;
+text-transform: uppercase;
+}
+
+.themequote {
+font-size: 110%;
+line-height:1.4em; 
+padding-top: 7px; 
+margin-bottom: 0.4em; 
+color: #33A; 
+text-align:right;
+}
+
+.quote {
+font-size: 90%;
+}
+
+.centertable70 {
+width: 70%; MARGIN-LEFT: 60px; MARGIN-RIGHT: auto;
+}
+
+object {
+margin-top: 0.8em; margin-left: -0.1em
+}
+
+#tipdiv {
+position:absolute;top:200px; right:200px;visibility:hidden;
+height: auto;
+color:#33A; background-color:#e7e0d0;border:1pt solid #33A;
+ font: 13px/1.2 'Trebuchet MS',Verdana, sans-serif; 
+padding: 4px;overflow: visible; z-index:999; 
+opacity: 0.95; /* non-MSIE browsers */
+	zoom: 100%; /* needed to enable MS filter */
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=95); /* MSIE */
+}
+
+#tipdiv p {
+margin-top: 0.2em;
+margin-bottom: 0.4em;
+}
+
+
+#tipdiv_s { position:absolute;bottom:0px; right:0px;visibility:hidden;background-color: #666; 
+
+opacity: 0.60; /* non-MSIE browsers */
+	zoom: 100%; /* needed to enable MS filter */
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=60); /* MSIE */
+border: none;
+padding: 4px;overflow: visible; z-index:99;
+}
+
+#tipdiv_s p {
+margin-top: 0.2em;
+margin-bottom: 0.5em;
+}
+
+.eetooltip {
+font: 11px/1.3 'Trebuchet MS', sans-serif; 
+}
+
+.exhead {
+font-family: 'Trebuchet MS', sans-serif; 
+/* margin-left: 8px; */
+text-align: center;
+margin-top: 14px; padding:3px; margin-bottom: -1.0 em; 
+font-size: 90%; 
+color:  #33A;
+}
+
+.spothead {
+font-family: 'Trebuchet MS', sans-serif; 
+text-align: center;
+margin-top: 14px; padding:3px; 
+margin-bottom: -1.0 em; font-size: 90%; 
+color:  #33A;
+}
+
+.intro {
+font-family: 'Palatino Linotype', Palatino, 'Book Antiqua', serif;
+font-size:110%; font-weight: normal; letter-spacing: 0px;
+color: #33A;
+}

@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Not Quite Death in Midsummer</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="scr.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../javascript/global.js"></script>
+</head>
+
+<body text="#000000" bgcolor="#dcdedd">
+
+		
+<div align="center" onClick="location='index.htm';" id="Layer1" style="position:absolute; left:111px; top:73px; width:678px; height:666px; z-index:1">
+<br>
+<br>
+<br>
+<DIV class="poemtitle">Not Quite Death in Midsummer</DIV><br>
+  <div align="center"><img src="images/notquitedeath.jpg"><br>
+  <a class="artistline" href="javascript:goauthor('schwartz');">art by Peter Schwartz</a></div><br>
+<TABLE><TR><TD>
+<br>
+<br>
+Calm yourself and speak to me,<br>
+The blood has clotted, you shall live.<br>
+Suicidal pretendency<br>
+Will not grant you sympathy&#8212;<br>
+Although I promise to forgive<br>
+The bloodstains on my bedroom floor<br>
+If you don't do it anymore.<br>
+Or, if you slash <em>both</em> your wrists<br>
+And make sure that you cut them deep.<br>
+I am so sick of morbid fits.<br>
+Next time slash and jab and twist<br>
+Your fucking knife&hellip;and let me sleep.<br>
+I cannot stand to wake again<br>
+To watch you act like you're insane.<br>
+<br>
+You know, if you want to die<br>
+There <em>is</em> a way to do it right:<br>
+A knitting needle through the eye,<br>
+Sleeping pills, a quart of rye&hellip;<br>
+Don't make me waste another night<br>
+With cleaning up another mess.<br>
+You die&hellip;or find a new address,<br>
+Okay? Now, goodnight to you,<br>
+Perhaps I'll wake and you'll be gone?<br>
+I hope to hell you're going to,<br>
+But, no matter what you do&#8212;<br>
+Your slitting wrist shit isn't on<br>
+When you cut one and end up sick;<br>
+You need to slice them both, and quick.<br>
+<br>
+<br><br>
+<a class="byline" href="javascript:goauthor('howard-hobson')">by Juleigh Howard-Hobson</a><br><br><br>
+</TD></TR></TABLE>
+</div>
+		
+<div id="Layer2" onClick="location='index.htm';" onMouseOver="this.style.cursor='hand';" style="position:absolute; left:194px; top:12px; width:500px; height:32px; z-index:2"></div>
+<div id="Layer3" onMouseOver="this.style.cursor='hand';" onClick="gopage(-1);" style="position:absolute; left:13px; top:264px; width:88px; height:146px; z-index:3"></div>
+<div id="Layer4" onMouseOver="this.style.cursor='hand';" onClick="gopage(1);" style="position:absolute; left:797px; top:264px; width:88px; height:146px; z-index:4"></div>
+</body>
+</html>

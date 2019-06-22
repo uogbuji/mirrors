@@ -1,0 +1,28 @@
+.poem {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #003333;
+}
+.authortitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #660000;
+	text-decoration: none;
+}
+.poemlink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666633;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+body {
+	background-color: #F5EDBC;
+}

@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Shit Creek Review</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="scr.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../javascript/global.js"></script>
+</head>
+
+<body text="#000000">
+
+		<img src="images/poemlogo.gif">
+<div align="center">
+<br>
+<br>
+<br>
+<DIV class="poemtitle">Postcard</DIV><br>
+<TABLE><TR><TD>
+<br /> 
+<i>It’s hard to dream</i>, you write,<br /> 
+<i>of a white Christmas on this bus ride <br /> 
+through the jungle of Central Africa.</i><br /> 
+It’s hard not to think as I read these lines   <br /> 
+that the beauty of this unpeopled landscape<br />  
+of fog and trees holds some undeciphered code.  <br /> 
+Paradise paired with sentence fragments<br /> 
+is how we communicate.  <br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We do not say, <br /> 
+<i>the vice-director has accused me <br /> 
+of lying;  Jamal’s husband has committed suicide, <br /> 
+my house has burned to the ground.</i><br /> 
+These are for hiding in the folds of envelopes.  <br />   
+<br /> 
+Instead we seek comfort, we say: <br /> 
+the glassy seascapes of Zanzibar<br /> 
+will take your breath away,<br /> 
+the budding minarets of Budapest <br /> 
+are something to behold. Look carefully,<br /> 
+your Italian lover should be somewhere <br /> 
+in this picture, waiting for you.<br /> 
+These words fill us: <br /> 
+A thousand houses extend <br /> 
+like bullet holes in the mountainside <br /> 
+over the sea.    <br /> 
+ 
+
+<br><br>
+
+<object type="application/x-shockwave-flash" data="emff_lila_info.swf" width="160" height="44"> <param name="movie" value="emff_lila_info.swf"> <param name="wmode" value="transparent"> <param name="FlashVars" value="src=postcardnawrocki.mp3"> Sound-player plug-in requires Flash V7 or later.</object>
+<br><br>
+
+<a class="byline" href="javascript:goauthor('nawrocki')">by Amy Nawrocki</a></td></tr></table><br><br>
+<br>
+  <img src="images/postcard.jpg"><br>
+  <a class="artistline" href="javascript:goauthor('evans');">art by Justin Evans</a><br>
+<br>
+<br>
+
+<a href="page20.htm?20#" onClick="gopage(-1);"><img src="images/west.gif" border=0></a>
+<a href="indexx.htm"><img src="images/navigation.gif" border=0></a>
+<a href="page20.htm?20#" onClick="gopage(1);"><img src="images/east.gif" border=0></a>
+</div>
+		
+</body>
+</html>

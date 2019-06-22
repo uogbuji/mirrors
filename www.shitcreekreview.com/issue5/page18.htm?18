@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Pitching Poetry</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="scr.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../javascript/global.js"></script>
+</head>
+
+<body text="#000000" bgcolor="#dcdedd">
+
+		
+<div align="center" onClick="location='index.htm';" id="Layer1" style="position:absolute; left:111px; top:73px; width:678px; height:666px; z-index:1">
+<br>
+<br>
+<br>
+<DIV class="poemtitle">Pitching Poetry</DIV><br>
+  <div align="center"><img src="images/pitchingpoetry.jpg"><br>
+  <a class="artistline" href="javascript:goauthor('jones');">art by Pat Jones</a></div><br>
+<TABLE><TR><TD>
+<br><br>
+<p style="font-size:80%"><i>Just when I think my office is under attack<br /> by a horde of iambic zombies, I get a sonnet<br /> or villanelle that reminds me of everything those<br /> old forms can do.</i><br />
+&#8212;Christian Wiman, Editor, Poetry, November 2003</p><br /><br />
+
+Scene One: we open in a crypt,<br />
+Van Helsing and this babe, equipped<br />
+<br />
+With flickering torches, lights that play<br />
+Along these rows of . . . what're they?<br />
+<br />
+Books. <i>Jesus Christ</i>, he says, <i>I fear<br />
+They're gnawing on these dead. Look, here.</i><br />
+<br />
+Cut to her feet. <i>You're one of them!</i><br />
+There's couplets dripping from her hem.<br />
+<br />
+Pan up (we'll use a shaky-cam)<br />
+And she can only croak, <i>Iamb!</i> <br /><br>
+<br /><hr>
+Previously published in <i>Folly</i>
+<br><br>
+<a class="byline" href="javascript:goauthor('osen')">by Frank Osen</a><br><br><br>
+</TD></TR></TABLE>
+</div>
+		
+<div id="Layer2" onClick="location='index.htm';" onMouseOver="this.style.cursor='hand';" style="position:absolute; left:194px; top:12px; width:500px; height:32px; z-index:2"></div>
+<div id="Layer3" onMouseOver="this.style.cursor='hand';" onClick="gopage(-1);" style="position:absolute; left:13px; top:264px; width:88px; height:146px; z-index:3"></div>
+<div id="Layer4" onMouseOver="this.style.cursor='hand';" onClick="gopage(1);" style="position:absolute; left:797px; top:264px; width:88px; height:146px; z-index:4"></div>
+</body>
+</html>

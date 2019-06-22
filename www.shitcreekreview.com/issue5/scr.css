@@ -1,0 +1,25 @@
+BODY {
+	FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 16px; BACKGROUND-IMAGE:  url(images/bg.jpg); BACKGROUND-REPEAT: no-repeat; background-color: afb2aa
+}
+BLOCKQUOTE {FONT-SIZE: 16px}
+.poemtext {
+	FONT-SIZE: 18px; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.byline {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: black; TEXT-DECORATION: none
+}
+.artistline {
+	FONT-SIZE: 10px; TEXT-DECORATION: none; COLOR: black;
+}
+P {
+	FONT-SIZE: 16px; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.smallpoet {
+	FONT-SIZE: 12px; COLOR: #000000; TEXT-DECORATION: none
+}
+.poemtitle {
+	FONT-SIZE: 20px; FONT-FAMILY: "Times New Roman", Times, serif; FONT-WEIGHT: bold; text-align: center;
+}
+a {
+	FONT-SIZE: 16px; TEXT-DECORATION: none; FONT-FAMILY: "Times New Roman", Times, serif; FONT-WEIGHT: bold
+}

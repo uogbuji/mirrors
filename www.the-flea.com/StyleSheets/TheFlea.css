@@ -1,0 +1,205 @@
+
+body {
+font-family: georgia, 'palatino linotype', palatino, 'book antiqua', 'bookman old style', serif;
+font-size: 85%; text-align: center; 
+margin: 0; margin-top: 12px; 
+color: #4A4133;
+background: #EEEEE8; background: #F5F5F1; background: #FFF;
+}
+
+/* html>body *
+{ font-size: 1em; } */
+
+h1 {
+margin-top:0; margin-bottom: 0.4em; font-size: 1.6em; line-height: 1.2em; 
+}
+
+h2 {
+margin-top:0; margin-bottom: 1.4em; font-size: 1.3em;
+font-weight: normal; 
+}
+
+h3 {
+margin-top:0.5em; margin-bottom: 0.3em; font-size: 1.1em; font style: italic
+}
+
+#container { 
+width: 762px; height: auto; padding: 4px; padding-top:0px;  
+background: transparent; 
+margin-left:auto; margin-right:auto; margin-bottom: 12px; text-align: left;
+border: 0px solid #C0E0DC;
+}
+
+
+#page-top {
+width: 100%; height: 64px; margin: 0; padding: 0; background-image: url('../images/bgtextPageTop762x64.png'); 
+background-repeat: no-repeat;
+background-position: top left; 
+margin-top: -1px; border-top: 1px solid #F9F9F3; border-color: transparent; /* cancel for IE in template */ 
+}
+
+#page-middle {
+width: 100%; margin: 0; padding: 0px;
+background-image: url('../images/bgMid762x30.png'); background-repeat: repeat-y;
+margin-top: -1px; border-top: 1px solid #F9F9F3; border-color: transparent;  /* cancel for IE in template */ 
+}
+
+#page-bottom {
+width: 100%; height: 58px; margin: 0; padding: 0;
+background-image: url('../images/bgBot762x58.png'); background-repeat: no-repeat;
+background-position: top left;
+margin-top: -1px; border-top: 1px solid #F9F9F3; border-color: transparent;  /* cancel for IE in template */ 
+}
+
+#header {
+width: 100%; height: auto; text-align:right; 
+}
+
+#nav{position:relative; display:block; width: 100%; text-align:right; height:17px; font-size:12px; font-weight:normal; border-bottom: 1px solid #EED; border-left: none; border-right:none; margin-top: 8px; margin-left: 4px }
+		#nav ul {margin:0; padding:0; list-style-type:none; width:auto;}
+		#nav ul li {display:block; float:left; border-left: 1px solid #EEC}
+		#nav ul li a {display:block; float:left;  padding: 0 7px 4px 7px; height:17px;}
+		#nav ul li a:hover {display:block; float: left; padding: 0 7px 4px 7px; height:17px; }  
+	
+#maintext { 
+width: 500px; float: right;  padding-right: 16px; margin-top: 12px; margin-bottom: 12px;
+font-size: 1em; line-height: 1.5em; 
+}
+
+#sidebar { 
+width: 206px; padding: 0; padding-left:10px; padding-right: 10px; padding-top: 207px; margin-bottom: 12px; float: left; text-align: left; color: #776;  
+font-size: 0.8em; line-height: 1.4em; border-right: 1px dotted #CCC; background:  url('../images/theFleaRptIssue.gif'); 
+background-repeat: no-repeat; background-position: 10px 0px;
+}
+
+#footer { 
+padding-top: 16px; margin-bottom: 0px; color: #887; font-size: 0.80em; line-height: 1.2em; text-align:center 
+}
+
+a:link, a:visited {
+color: #900; text-decoration: none; 
+}
+
+a:hover { 
+text-decoration: underline 
+}
+
+.caption {
+font-size: 0.87em; text-align: right; margin-top: 0; margin-bottom: 1.8em;
+}
+
+.bio {
+margin-top:0;
+margin-bottom: 2em;
+}
+
+.epigraph {
+width: 80%; font-size: 0.87em; margin-top: 0.5em; margin-bottom: 1.5em;
+}
+
+.endnote {
+width: 80%; font-size: 0.87em; color: #665; line-height: 1.3em;
+margin-top: 1.8em; padding-top: 0.5em; border-top: 1px solid #DDC; margin-bottom: 1em;
+}
+
+
+
+
+p.menulink {
+padding:0;
+margin-top: 0.3em; margin-bottom: 0.3em;
+line-height: 1.2em;
+margin-left: 1.0em; text-indent: -1em
+}
+
+h5 {
+font-size: 100%;
+padding:0;
+margin-top: 0.3em; margin-bottom: 0.7em;
+line-height: 1.2em;
+margin-left: 0.9em; text-indent: -0.9em;
+color: #554;
+font-weight: normal; 
+}
+
+
+/* Extra space after Editorial link, via class="ed" */
+
+
+h6 {  /* Similar to p.menulink; used for sidebar contents list links */ 
+font-size: 100%;
+font-weight: normal;
+padding:0;
+color: #554;
+margin-top: 0.3em; margin-bottom: 0.3em;
+line-height: 1.2em;
+margin-left: 0.9em; text-indent: -0.9em;
+}
+
+
+.menubyline {
+font-weight: bold;
+} 
+
+
+
+p.selected {
+padding:0;
+margin-top: 0.4em; margin-bottom: 0.4em;
+line-height: 1.2em;
+margin-left: 1.0em; text-indent: -1em;
+background: #FFF;
+}
+
+
+
+
+
+a:hover { 
+text-decoration: underline 
+}
+
+.prevnext {
+margin-top: 8px; margin-bottom:12px; 
+border-top: 1px solid #DDC; 
+border-bottom: 1px solid #DDC; 
+font-size: 95%;line-height:1.1em; padding: 1px;
+}
+
+.btn {
+background: #AA9; border: 1px solid #554 outset;
+background-image: url('http://www.the-flea.com/images/buttonbg1.png'); 
+background-repeat: repeat-x;
+color: #665;
+}
+		
+.btnhov {
+background: #DDC; border: 1px solid #AAC inset;
+background-image: url('http://www.the-flea.com/images/buttonbg2.png'); 
+background-repeat: repeat-x;
+color: #998;
+}
+
+.sidebox {
+margin-top: 1.2em;
+border: 1px solid #CCB; padding: 3px;
+}
+	
+.subsform {
+margin-top: 1.5em; 
+padding: 6px; padding-top: 10px; padding-bottom: 10px; 
+FONT-SIZE: 0.95em; background-color: #F3F3E5; LINE-HEIGHT: 1.3em; text-align:left;
+border: 1px solid #900;
+	}	
+	
+textarea {
+ font: 1em/1.3 'palatino linotype', palatino, 'book antiqua', 'bookman old style', 'times new roman', serif;	
+	}
+	
+input {
+background-color: #FFF;
+}
+
+legend {
+color: #887 
+}

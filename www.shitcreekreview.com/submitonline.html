@@ -1,0 +1,178 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<!-- Needs iso-8859-1 (utf-8 causes problems with some characters in copied-in text)  -->	
+<title>Shit Creek Review: Submit Online</title>
+	<link rel="stylesheet" type="text/css" href="http://www.shitcreekreview.com/stylesheets/simple.css" title="default" media="screen" />
+	
+<script language="JavaScript" src="javascript/global.js"></script> <!-- this line probably won't be needed -->
+<link rel="stylesheet" type="text/css" href="simple.css" title="default" media="screen" />
+
+<style type="text/css" media="screen" />
+		body {
+			font-family: 'times new roman', times, serif; font-size: 16px; margin:15px; 
+			background-color: #444; background-image: url();
+	background-repeat: no-repeat;
+		/* Per issue, the URL ref above should point to the issue bg image and the background color be adjusted to suit */
+		}
+
+#title {
+margin: 12px;
+margin-left:auto; margin-right:auto;
+width: 600px;
+font-size: 20px;
+color: #565;
+text-align: center;  
+}
+
+#container {
+background: #C1C2C1;  margin-bottom:5px; margin-top: 25px; padding:10px; padding-left:16px
+}
+		
+		.btn {
+		background: #999; border: 1px solid #999 outset;
+		background-image: url('buttonbg1.jpg'); 
+        background-repeat: repeat-x;
+		color: #000;
+		}
+		
+		.btnhov {
+		background: #CCC; border: 1px solid #550 inset;
+		background-image: url('buttonbg2.jpg'); 
+        background-repeat: repeat-x;
+		color: #595;
+		}
+		
+		a {
+		text-decoration: underline; COLOR: black;
+		}	
+		
+		a img {border:none}
+		
+		
+</style>
+	
+<script type="text/javascript" src="sub.js"></script> <!-- Needed for form input validation -->
+
+</head>
+
+<body id="bodydiv">
+<div style="text-align:center">
+<a href="../shitcreek.auszine.com/index.html" title="Site home page" class="main_title" style="border:none"><img src="http://shitcreek.auszine.com/wp-content/uploads/scr_home_title.gif" width="380" height="28" alt="The Shit Creek Review" /></a>
+</div>
+
+<div id="container">
+<p>&nbsp;</p>
+
+<h2 style="text-align:center">Submit online</h2>
+
+
+<!-- Edit for theme and any other text changes below -->
+
+<p>Please be sure to read our guidelines on the current <a href="../shitcreek.auszine.com/issue11/submissions/index.html">Submissions page</a>, where you will also find details of the current theme. That page is also the place to look if you want to submit artwork.</p>
+
+<p>Submit poems online for Issue 12 here. The online method is best for poems without too many complexities of indenting or other special formatting.</p>
+
+<p>For poems with a lot of indents or other formatting, paste your text into the body of a formatted (HTML) email, or send it as an attached Word document, to <script type="text/javascript">writeEmail("editor","shitcreekreview.com", "the editor");</script>. </p>
+
+
+<form id="theForm" name="theForm" onSubmit="return checkData()" action="http://www.the-chimera.com/scr_formmail3.php" method="post">
+
+
+<fieldset style="padding-top:0; border: 1px solid #550;"><legend align="left" style="font-weight:bold; color: #550">&nbsp;NEW: Submission preview&nbsp;</legend>
+<div style="padding: 8px; padding-top:0; color: #550;"><p>A Preview facility has been added to this form. Use the Preview button to see how your text will look when sent, especially if you are using HTML tags for italics and indents.</p> <p>The Preview feature will also convert basic UBB (online forum) formatting code to the required HTML (and reflect this change back into the Submission field). The note below lists the UBB tags that will be converted.</p></div>      
+</fieldset><br />
+
+Name: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input size="45" name="author_name" /><br />
+<br />
+Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input size="45" name="email_address" />&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Please double-check!</p>
+<p>Type in the text of your poem(s) in the box below, or copy and paste from your Word document or other source. 
+Line and paragraph breaks will be preserved (if not, you can adjust with the Enter/Delete keys) 
+but formatting such as italics and bold is not preserved. You can reapply it in the form, using 
+basic HTML tags; see below for some details. <em>Do not insert HTML code for paragraph or line breaks</em>; 
+it should be sufficient to ensure that breaks are visually correct, with a double break where you need an empty line.
+
+SEE THE FORMATTING NOTES IF YOU ARE SENDING TEXT WITH INDENTED LINES, and <span style="color: #550">preview your text</span> before submitting.</p>
+
+<fieldset style="padding-top:0; border: 1px solid #550;"><legend align="left" style="font-weight:bold; color: #550">&nbsp;<b>UBB tags OK</b>&nbsp;</legend>
+<div style="padding: 8px; padding-top:0; color: #550;">The YOUR TEXT field now accepts UBB formatting tags and the Preview process converts them to the equivalent HTML tags. Specifically, you can include [i] ..... [/i] for italics, [b] ..... [/b] for bold (though this should rarely be needed), and [color=white] .... [/color] to achieve indents. </b></div> 
+</fieldset>
+<p>YOUR SUBMISSION TEXT:<br />
+<textarea style="FONT: 16px/1.3 'times new roman', serif; padding-left: 6px" name="submission" rows="28" cols="88">
+</textarea>
+<p>Use the PREVIEW button to see your submission text as it will be received, with layout and formatting. This can be useful to catch errors in spacing, italics etc before you actually submit. The anti-spam box does NOT need to be completed for a preview. The preview text will be shown below.</p>
+<div style="text-align: center"> 
+<input type="button" value="PREVIEW" class="btn" title="Click to see how your submission will look when received" onClick="subPreview()" onMouseOver="this.className='btnhov'" onMouseOut="this.className='btn'" style="border: 2px solid #550" />&nbsp;  
+</div>
+<div id="previewbox" style="background:#FFFCF8;display:none; width:96%; height:auto; padding: 6px;"> 
+</div>
+<br />
+
+<br />
+
+<br />
+Brief author&rsquo;s biographical note &mdash;<br />
+up to about 60 words in third-person style:<br />
+<textarea name="bio"  style="FONT: 16px/1.3 'times new roman', serif; padding-left: 6px" rows="5" cols="88">
+</textarea>
+<br />
+(Formatting is available as above.)<br />
+<br />
+<input type="checkbox" checked="checked" value="TRUE" name="confirm_mail" />&nbsp;&nbsp;Send me an email message confirming my submission<br />
+If you are set up to read formatted (HTML) mail, the message will show your submission exactly as received. If you read mail only in plain text, the confirmation will show the text and line breaks as submitted, but formatting such as italics will be absent and special characters such as quotes and em dashes may not appear correctly even though we received them correctly.<br />
+<br />
+
+<!-- Edit the details below with great care! Change only, where necessary, the text within quotes in the VALUE elements.
+For example, if you want a specific response period stated in the confirmation emails to submitters, change "as soon as a decision is made" to "within six weeks" or whatever. Or you might want to change the values for the thanker title and thanker name.
+
+The email address to which the submission will be sent is deliberately not included in this document. It's specified in the form-to-mail php file.  
+-->
+
+<input type="hidden" value="The Shit Creek Review" name="zine_name" /> <input type="hidden" value="SCR submission from" name="subject" /> <input type="hidden" value="http://www.shitcreekreview.com/thanks.html" name="return_to" />  <!-- extra hidden fields for confirmation email --><input type="hidden" value="" name="logo_url" /><input type="hidden" value="as soon as a decision is made" name="response_period" /> <input type="hidden" name="thankyou_message" value="Thanks for submitting to The Shit Creek Review. Here&rsquo;s the text of your submission as received. <br><br>" /> 
+<input type="hidden" value="Online submission received" name="thankyou_subject" /> 
+<input type="hidden" value="Shit Creek Review Editor" name="thanker_title" /> 
+<input type="hidden" value="Nigel Holt" name="thanker_name" /> 
+
+<p>Robot-guided spammer canoes have occasionally been sighted on the Creek. To help sink them, read the characters below and type them into the empty box before clicking the Submit button.</p>
+<table border="0" cellpadding="6" cellspacing="0"><tr><td valign="bottom" width="22%"><script type="text/javascript">getImg(0);</script><!-- <img src="captcha1.png" alt="anti-spam image"> --></td> <td valign="bottom"  width="40%" style="font: 10px/1.1 sans-serif">&nbsp;&nbsp;&nbsp;&nbsp;Enter the characters you see on the left:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;(case-sensitive, no spaces)<br />&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="captcha" id="captcha" size="12" maxlength="9" /></td>
+
+<td valign="bottom"><input type="submit" value="Submit" class="btn" title="Click to send your submission"  onmouseover="this.className='btnhov'" onMouseOut="this.className='btn'" />&nbsp;&nbsp;<input type="reset" value="Clear Form" class="btn"
+   onmouseover="this.className='btnhov'" onMouseOut="this.className='btn'" /></td>
+</tr></table>
+<br />
+
+</form>
+
+
+<fieldset style="width:550px; margin-right:0px; padding: 2px"><legend><b>&nbsp;Formatting&nbsp;</b></legend><div style="padding:5px; background:#FFF; font: 11px verdana, sans-serif"">
+<p>Formatting such as italics and bold text is not preserved when you paste text into this web form.</p>
+<p>The text you enter gets processed into a formatted (HTML) email to the Editor. To put a word or phrase in <em>italics</em>, insert <strong>&lt;i&gt;</strong> before the text and <strong>&lt;/i&gt;</strong> after. 
+To put a word or phrase in <strong>bold</strong>, insert <strong>&lt;b&gt;</strong> before the text and <strong>&lt;/b&gt;</strong> after.
+</p>
+<p>Other simple HTML tags are also accepted. (Please don&rsquo;t copy in complex HTML, <em>especially</em> not the tag soup that Word spits out via its Save As... HTML.) For example, you might want to indent some lines in a poem. Spaces inserted at the beginning of a line with the spacebar or tab key will simply get lost in transmission. If you need an indent do it like this:</p>
+
+<p style="margin-left:1.5em; margin-right:0"><code>While this is just a standard flush-left line,<br />
+&lt;font color=white&gt;*****&lt;/font&gt;this is a line indented from the left.</code>
+</p>
+
+<p>(Note: no quotes of any kind around the word <strong>white</strong>.)</p>
+<p>In the email that comes through, it will look like this:</p>
+
+<p style="margin-left:1.5em; margin-right:0">While this is just a standard flush-left line,<br />
+<font color="white">***</font>this is a line indented from the left.
+</p></div>
+</fieldset>
+
+
+</div>
+
+<div id="footer" style="color:#EEE">
+Page updated Sunday, June 7, 2009 
+</div>
+</body>
+</html>

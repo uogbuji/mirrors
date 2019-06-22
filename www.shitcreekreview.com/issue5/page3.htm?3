@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Out of the box</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="scr.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../javascript/global.js"></script>
+</head>
+
+<body text="#000000" bgcolor="#dcdedd">
+
+		
+<div align="center" onClick="location='index.htm';" id="Layer1" style="position:absolute; left:111px; top:73px; width:678px; height:666px; z-index:1">
+<br>
+<br>
+<br>
+<DIV class="poemtitle">Out of the box</DIV><br>
+  <div align="center"><img src="images/outofthebox.jpg"><br>
+  <a class="artistline" href="javascript:goauthor('jones');">art by Pat Jones</a></div><br>
+<TABLE><TR><TD>
+<br>
+<br>
+They were all different.  When you raised the lid<br />
+The first dark wave of chocolate broke, but hid<br />
+The Spanish lemons, nougat crisp as France,<br />
+The English hazel and the heady chance<br />
+That alcohol would drop into your mouth<br />
+Raw smoke of whisky, Chartreuse from the South.<br />
+<br />
+Milk chocolates came from small shops, a sweet silt.<br />
+The North, the Quaker chocolate makers, built<br />
+Good houses for the men, made chocolate plain,<br />
+One dark safe sin to lure you back again.<br />
+Then subtler friends produced the slim Swiss box<br />
+With tiny shells, ripe taste of apricots.<br />
+<br />
+Brief Christmas Eden?  Wait.  Here comes the snake,<br />
+Praline, brown bubbling hell all factories make,<br />
+Which trickles on us from a glittered waste<br />
+Of wrapping - Deluxe - Belgian - but one paste<br />
+Disguised as truffles, whorls, as blank as night<br />
+Drowns cherries, nuts, rose-bright Turkish Delight.<br />
+<br />
+A tiny loss, not one to cry<br />
+While children wither, old men die,<br />
+And yet a loss, handful of scents<br />
+A bouquet clasped each year by sense.<br />
+Time to scrub celery, reflect<br />
+On nut trees felled, on orchards wrecked,<br />
+How each delight, distinct in name,<br />
+Rotted my good teeth just the same.<br /><br />
+<br />
+<br /><br>
+
+<a class="byline" href="javascript:goauthor('brackenbury')">by Alison Brackenbury</a><br><br><br>
+</TD></TR></TABLE>
+</div>
+		
+<div id="Layer2" onClick="location='index.htm';" onMouseOver="this.style.cursor='hand';" style="position:absolute; left:194px; top:12px; width:500px; height:32px; z-index:2"></div>
+<div id="Layer3" onMouseOver="this.style.cursor='hand';" onClick="gopage(-1);" style="position:absolute; left:13px; top:264px; width:88px; height:146px; z-index:3"></div>
+<div id="Layer4" onMouseOver="this.style.cursor='hand';" onClick="gopage(1);" style="position:absolute; left:797px; top:264px; width:88px; height:146px; z-index:4"></div>
+</body>
+</html>

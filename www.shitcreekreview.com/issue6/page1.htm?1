@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Shit Creek Review</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="scr.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../javascript/global.js"></script>
+</head>
+
+<body text="#000000">
+
+		<img src="images/poemlogo.gif">
+<div align="center">
+<br>
+<br>
+<br>
+<DIV class="poemtitle">Travelling</DIV><br>
+<TABLE><TR><TD>
+<br>Sorry, my friend, that I have not written<br />
+
+sooner, but I have been travelling, far,<br />
+
+over scored glacial plains where the bitten<br />
+
+thornwood crouches beneath the north star;<br />
+
+then farther, to where the seas roll like cold tar.<br />
+
+I sailed that congealing, snow-crusted sea<br />
+
+till it set hard and ice snapped my boat's spar.<br />
+
+So cold it was, not a tear could flow free,<br />
+
+and none trudged that frozen desert but me.<br />
+
+When night condensed from the twilight gloom<br />
+
+I stumbled, numbly, unable to see,<br />
+
+my ice-thistled coat as hard as a tomb.<br />
+
+But morning has brought a fall of rain<br />
+
+thawing my hands, so I write again.<br />
+<br />
+<br>
+<a class="byline" href="javascript:goauthor('allinson')">by Mark Allinson</a>
+</td></tr></table>
+<br><br>
+<br>
+  <img src="images/allinson.jpg"><br>
+  <a class="artistline" href="javascript:goauthor('jones');">art by Pat Jones</a><br>
+<br>
+<br>
+
+<a href="page1.htm?1#" onClick="gopage(-1);"><img src="images/west.gif" border=0></a>
+<a href="indexx.htm"><img src="images/navigation.gif" border=0></a>
+<a href="page1.htm?1#" onClick="gopage(1);"><img src="images/east.gif" border=0></a>
+</div>
+		
+</body>
+</html>

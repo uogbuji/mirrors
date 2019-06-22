@@ -1,0 +1,29 @@
+BODY {
+	FONT-FAMILY:  Georgia, "Times New Roman", Times, serif; FONT-SIZE: 16px; BACKGROUND-IMAGE:  url(images/poembg.jpg); BACKGROUND-REPEAT: repeat; background-color: afb2aa
+}
+BLOCKQUOTE {FONT-SIZE: 16px}
+.poemtext {
+	FONT-SIZE: 18px; FONT-FAMILY:  Georgia, "Times New Roman", Times, serif;
+}
+.byline {
+	FONT-WEIGHT: bold; FONT-FAMILY:  Georgia, "Times New Roman", Times, serif; FONT-SIZE: 16px; COLOR: black; TEXT-DECORATION: none
+}
+.artistline {
+	FONT-SIZE: FONT-FAMILY:  Georgia, "Times New Roman", Times, serif; 14px; TEXT-DECORATION: none; COLOR: black;
+}
+P {
+	FONT-SIZE: 16px;  FONT-FAMILY:  Georgia, "Times New Roman", Times, serif;
+}
+.smallpoet {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY:  Georgia, "Times New Roman", Times, serif; TEXT-DECORATION: none
+}
+.poemtitle {
+	FONT-SIZE: 20px;
+	FONT-FAMILY:  Georgia, "Times New Roman", Times, serif;
+	FONT-WEIGHT: bold;
+	text-align: center;
+	color: #000000;
+}
+a {
+	FONT-SIZE: 16px; TEXT-DECORATION: none;  FONT-FAMILY:  Georgia, "Times New Roman", Times, serif; FONT-WEIGHT: bold
+}

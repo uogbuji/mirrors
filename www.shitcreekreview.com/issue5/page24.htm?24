@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Gandy Dancer of the Phoebe Snow</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="scr.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../javascript/global.js"></script>
+</head>
+
+<body text="#000000" bgcolor="#dcdedd">
+
+		
+<div align="center" onClick="location='index.htm';" id="Layer1" style="position:absolute; left:111px; top:73px; width:678px; height:666px; z-index:1">
+<br>
+<br>
+<br>
+<DIV class="poemtitle">Gandy Dancer of the Phoebe Snow</DIV><br>
+  <div align="center"><img src="images/gandydancer.jpg"><br>
+  <a class="artistline" href="javascript:goauthor('schwartz');">art by Peter Schwartz</a></div><br>
+<TABLE><TR><TD>
+<br>
+<br>
+You began right in front of me today. <br />
+I don’t know where you came from, <br />
+patient muscles hanging loose in your <br />
+soil-painted, dark-blue suit coat, <br />
+one pocket ripped to a triangle, <br />
+one pocket stuffed oh so properly <br />
+with a coffee-filled paper-wrapped <br />
+pint bottle, your thin legs nailed down <br />
+into a pair of the saddest brown pants, <br />
+a long-handle spade extending your arms, <br />
+eyes folded over reaching for noon. <br />
+<br />
+Off behind you, faded to gray, <br />
+jetted the rip of animate steam, <br />
+coal gases; railroad track arrowing <br />
+in a lake top that still does not exist. <br />
+<br />
+You said, “Manja,” and laughed at me, <br />
+your big teeth ripe of red meat and bread, <br />
+voice as loud as your hands slapping with music. <br />
+<br />
+You untied the red bandanna at your neck, <br />
+a sun-bothered sail of red bandanna, <br />
+wiped the brow under a felt hat, sucked <br />
+at the papered bottle until I tasted iodine <br />
+at the bend of my throat, smelled coal dust <br />
+coming a talc over us, like a dry fog. <br />
+<br />
+It was the same yesterday when I made <br />
+a v-grooved pole to hold the clothesline up, <br />
+and over the fence a visitor from the Maritimes <br />
+said, “You go back a long way. I haven’t seen <br />
+a pole like that in  years and years.” <br />
+<br />
+So I guess you came the way the pole did, <br />
+out of the roads I’ve traveled, down lanes <br />
+stuffed like chairs, past yard geographies, <br />
+a long view over trees, out of some <br />
+thing I was, an organic of memory, <br />
+celluloid flashing of  wide spaces <br />
+I passed through, the odors I thought <br />
+I wore or was, cannons at the edge <br />
+of a distant war, colors banging <br />
+their permanence tightly against <br />
+the back of my eyes, <br />
+<br />
+pieces of the circle I find myself on, <br />
+where you were a moment ago, just <br />
+out the window of my mind, bearing <br />
+the riddle of a melancholy whistle.<br />
+<br /><br>
+<br>
+
+<a class="byline" href="javascript:goauthor('sheehan')">by Tom Sheehan</a><br><br><br>
+</TD></TR></TABLE>
+</div>
+		
+<div id="Layer2" onClick="location='index.htm';" onMouseOver="this.style.cursor='hand';" style="position:absolute; left:194px; top:12px; width:500px; height:32px; z-index:2"></div>
+<div id="Layer3" onMouseOver="this.style.cursor='hand';" onClick="gopage(-1);" style="position:absolute; left:13px; top:264px; width:88px; height:146px; z-index:3"></div>
+<div id="Layer4" onMouseOver="this.style.cursor='hand';" onClick="gopage(1);" style="position:absolute; left:797px; top:264px; width:88px; height:146px; z-index:4"></div>
+</body>
+</html>

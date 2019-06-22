@@ -1,0 +1,1 @@
+/home/php-cgi/php56.cgi

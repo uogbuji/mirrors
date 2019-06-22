@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Shit Creek Review</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="scr.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../javascript/global.js"></script>
+</head>
+
+<body text="#000000">
+
+		<img src="images/poemlogo.gif">
+<div align="center">
+<br>
+<br>
+<br>
+<DIV class="poemtitle">Invisible</DIV><br>
+<TABLE><TR><TD>
+<br />
+Riding the bus now, I've become invisible—<br>
+a breath, a mist that anyone can see through,<br> 
+almost as if it's something I'd aspired to <br />
+as life became more strange, unlivable. <br />
+<br />
+Riding the bus now, I'm immune to glances.<br />
+Men let me pass without remark. The curve<br />
+of present tense slides past the glass. We swerve<br />
+and it's behind us, with all of our lost chances.<br />
+<br />
+Riding the bus, I practice how to look <br />
+transparent, empty, gone. My eyes are closed.<br />
+My face is leather-bound. I am exposed, <br />
+yet plainly hidden. I am a blank book. <br />
+<br />
+Across the aisle, the girl I used to be—<br />
+bound for trouble, unaware of me. <br />
+<br />
+<br>
+
+<object type="application/x-shockwave-flash" data="emff_lila_info.swf" width="160" height="44"> <param name="movie" value="emff_lila_info.swf"> <param name="wmode" value="transparent"> <param name="FlashVars" value="src=Invisible.mp3"> Sound-player plug-in requires Flash V7 or later.</object>
+<br><br>
+
+
+<a class="byline" href="javascript:goauthor('clark')">by Antonia Clark </a></td></tr></table><br><br>
+<br>
+  <img src="images/clarke_invisible.jpg"><br>
+  <a class="artistline" href="javascript:goauthor('jones');">art by Pat Jones</a><br>
+<br>
+<br>
+
+<a href="page9.htm?9#" onClick="gopage(-1);"><img src="images/west.gif" border=0></a>
+<a href="indexx.htm"><img src="images/navigation.gif" border=0></a>
+<a href="page9.htm?9#" onClick="gopage(1);"><img src="images/east.gif" border=0></a>
+</div>
+		
+</body>
+</html>

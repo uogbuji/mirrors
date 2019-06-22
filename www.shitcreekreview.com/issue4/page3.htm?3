@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Slush Pile</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="scr.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../javascript/global.js"></script>
+</head>
+
+<body text="#000000" bgcolor="#FFFFdd">
+<table width="940">
+<tr>
+	<td>
+		<img width="150" height="100" src="images/text4.gif">
+	</td>
+	<td width="640">
+		<img src="images/bringcherries100-100.gif">
+		<img src="images/page3_100-100.gif">
+		<a href="index.htm"><img border="0" src="images/logosm.gif"></a>
+		<img src="images/exoticfruit100-100.gif">
+		<img src="images/raspgrape100-100.gif">
+	</td>
+	<td>
+		<img src="images/artulipchoke100-100.gif"><img src="images/corny50-100.gif">
+	</td>
+</tr>
+<tr>
+	<td>
+		<img src="images/applicator150-150.gif"><br><br>
+
+		<img src="images/melawncholy150-202.gif">
+	</td>
+	<td valign="top">
+		<table width="100%" cellpadding="15"><tr><td align="right"><img src="images/slush_pile.jpg">
+		<div align="right" class="artistline">Pat Jones</div>
+		</td>
+		<td valign="top">
+		<img src="images/page3.gif">
+		<p><br>
+		  In some respects I like this, even though
+<br>
+the workmanship's not great. Who'd rhyme 'today'
+<br>
+with 'day'? This one's arcane: what does it <em>say</em>?
+<br>
+Two down now; just two hundred more to go.
+<br>
+Call that a poem? Prose! And this one's so
+<br>
+<em>Poetic</em>. Why must people disobey
+<br>
+the basic rules of syntax? No. No way,
+<br>
+and No, and No, and No, and No, and No,
+<br>
+ 
+<br>
+and......Oh. Here's something special: see it shine.
+<br>
+It coruscates: a lamp of burnished gold
+<br>
+revealing vistas formerly unseen.
+<br>
+I sense the presence of a noble soul
+<br>
+who dares to go where others have not been.
+<br>
+Ah, I recall it now: it's one of mine!
+<br>
+		</p>
+		<br>
+		<a class="byline" href="javascript:goauthor('anthony')">by David Anthony</a>
+		</td></tr></table>
+	</td>
+	<td>
+		<img src="images/rosegrow150-180.gif"><br><br>
+		<img src="images/johnnyrocket150-150.gif">
+	</td>
+</tr>
+<tr>
+	<td>
+		<img width="150" height="100" src="images/text6.gif">
+	</td>
+	<td>
+		<a href="javascript:gopage(-1);"><img border="0" src="images/backhoe.gif"></a>
+		<img src="images/neverseen100-100.gif">
+		<img src="images/egglover100-100.gif">
+		<img src="images/corny100-100.gif">
+		<a href="javascript:gopage(1);"><img border="0" width="150" height="100" src="images/forwardhoe.gif"></a>
+	</td>
+	<td>
+		<img src="images/musictolife150-96.gif">
+	</td>
+</tr>
+</table>
+</body>
+</html>

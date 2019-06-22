@@ -1,0 +1,146 @@
+/* stylesheet for ii Index/Contents page 
+modified July 07
+*/
+
+body {  
+text-align: center;
+margin: 6px; margin-top: 140px; background: #FFF9DB; 
+background-image: url('../images/bg-cream.gif'); background-repeat: repeat-all;
+font-family:  georgia, 'bookman old style', 'century schoolbook', 'calisto mt', 'book antiqua', palatino, 'times new roman', times, serif; 
+color: #000;
+} 
+
+#outer {
+ margin-left:auto; margin-right: auto;  /*margin-top:10px;
+margin-left: 2%;*/
+}
+
+#bannerblock
+{
+padding-left:0px;
+}
+
+
+#leftcol {
+width: 42%; 
+padding: 0px; padding-top: 6px; padding-right: 20px; 
+font: 70%/1.3 verdana, sans-serif; color: #76647D;
+} 
+
+#leftcol P {
+line-height: 1.3em;
+margin-bottom: 8px; padding:0px;margin-top: 6px; padding-bottom:0px;
+}
+
+#sidebar {
+margin-bottom: 16px;
+}
+
+#rightcol {
+font-size: 80%; line-height: 1.4em; padding: 0;
+}
+
+#rightcol P {
+margin-top: 0.5em;
+margin-bottom: 0.6em;
+}
+
+#title_vspace {
+font: 26px/1.2 verdana; 
+margin: 0px; 
+padding: 0px
+}
+
+
+#footer {
+font: 60%/1.3 verdana, sans-serif; color: #445B52; padding: 6px; padding-top: 5px; margin-top: 0.4em; margin-bottom: 0.5em; border-top: 1px solid #40554D; text-align: center; 
+}
+
+h1 { /*  page title */
+font-size: 260%; line-height: 1.1em; 
+font-weight: normal; letter-spacing: 0px;
+color: #AEA82C;
+margin: 0em;
+padding: 0px;
+padding-bottom: 0.2em;
+border-bottom: 1px solid #AEA82C;
+}
+
+h2 {  /*page subtitle */
+font-size: 130%; line-height: 1.1em; 
+font-weight: normal; font-style: italic;
+/* color: #268; */ 
+color: #AEA82C;
+margin: 0em;
+padding: 0px; padding-top: 0.3em;
+padding-bottom: 0em;  /* template provides v space after headings */
+}
+
+ul li {
+margin-left: -1.5em; margin-bottom: 1em;
+}
+
+ol li {
+margin-left: -0.7em; margin-bottom: 1em;
+}
+
+.tightlist
+{ 
+margin-bottom: 0.1em 
+}
+
+.caption {
+margin: 0; margin-bottom: 18px; padding: 0; 
+font: 80%/1.1 tahoma, arial, sans-serif; text-align: right; 
+color: #445958; letter-spacing: 1px;
+}
+
+.chevmain {
+font-family: verdana; sans-serif; font-size: 18px; font-weight: bold;
+}
+
+.chev {
+font-family: verdana; sans-serif; font-size: 14px; font-weight: bold;
+}
+
+.contents_img {
+vertical-align: bottom;
+}
+
+.contentslink {
+line-height: 1.2em; margin:0; padding:0; padding-bottom: 0.25em
+}
+
+.linksubtext {
+/*font-size: 85%; */
+font: 85%/1.2 verdana, arial, sans-serif; 
+font-style: italic; 
+margin: 0;padding: 0; padding-left: 1.7em; padding-bottom: 1.3em; 
+letter-spacing: 0px; line-height: 1.2em
+}
+
+
+.spacer {
+font-size: 50%;
+padding:0;
+margin:0
+}
+
+
+a:link { color: #FFF; text-decoration: none; }
+
+a:visited {color: #FFF; text-decoration: none;}
+
+a:hover {color: #CC9; text-decoration: none; }
+
+a:active {color: #FF6; text-decoration: none; }
+
+
+#leftcol a:link { color: #FFF; text-decoration: none; font-weight: normal}
+
+#leftcol a:visited {color: #CCC; text-decoration: none; font-weight:normal}
+
+#leftcol a:hover {color: #CC9; text-decoration: none; font-weight:bold}
+
+#leftcol a:active {color: #FF6; text-decoration: none; font-weight:bold}
+

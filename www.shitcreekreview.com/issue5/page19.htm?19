@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Dor&eacute;&rsquo;s Engravings</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="scr.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../javascript/global.js"></script>
+</head>
+
+<body text="#000000" bgcolor="#dcdedd">
+
+		
+<div align="center" onClick="location='index.htm';" id="Layer1" style="position:absolute; left:111px; top:73px; width:678px; height:666px; z-index:1">
+<br>
+<br>
+<br>
+<DIV class="poemtitle">Dor&eacute;&rsquo;s Engravings</DIV><br>
+  <div align="center"><img src="images/dore.jpg"><br>
+  <a class="artistline" href="javascript:goauthor('dore');">art by Gustav Dor&eacute;</a></div><br>
+<TABLE><TR><TD>
+<br><br>
+The leaves are dry and yellow, edged with brown,<br />
+in the Forest of the Suicides. One soul<br />
+has got a knothole-navel, and his neck<br />
+grows down, a tuberous root, into the hard<br />
+unholy ground:<br /><br /> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<i>Mr. Potato Head</i>,<br />
+my brother says. Following his lead,<br />   
+I laugh with him, pretending to be brave<br />   
+or pitiless, uncertain which is which.<br />  
+(In Hell, the difference doesn&rsquo;t matter much.)<br /> 
+<br />
+Harpies&#8212;with claws, human heads, crows&rsquo; wings<br /> 
+and women&rsquo;s breasts&#8212;alight on limbs to eat<br />
+the leaves of trees that moan aloud and bleed;<br />
+<br /> 
+feet protrude from smoking wells, intestines<br />
+dangle from a stomach wound, lopped limbs<br /> 
+fester perpetually for finite sins;<br />
+<br /> 
+while bathed in love-light, angels tra-la-la<br />
+and beam as sinners scream. Then, at the end,<br />
+the wing&#232;d creatures swarm in corkscrew form,<br />
+<br /> 
+spiraling up to God. But Tommy says<br /> 
+they&rsquo;re swirling down the toilet; and, being ten,<br /> 
+he makes a farting noise, and says amen.<br /> 
+<br><br><br>
+<a class="byline" href="javascript:goauthor('poto')">by Rose Poto</a><br><br><br>
+</TD></TR></TABLE>
+</div>
+		
+<div id="Layer2" onClick="location='index.htm';" onMouseOver="this.style.cursor='hand';" style="position:absolute; left:194px; top:12px; width:500px; height:32px; z-index:2"></div>
+<div id="Layer3" onMouseOver="this.style.cursor='hand';" onClick="gopage(-1);" style="position:absolute; left:13px; top:264px; width:88px; height:146px; z-index:3"></div>
+<div id="Layer4" onMouseOver="this.style.cursor='hand';" onClick="gopage(1);" style="position:absolute; left:797px; top:264px; width:88px; height:146px; z-index:4"></div>
+</body>
+</html>

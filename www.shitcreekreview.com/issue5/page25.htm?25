@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Monsters' Lament</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="scr.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../javascript/global.js"></script>
+</head>
+
+<body text="#000000" bgcolor="#dcdedd">
+
+		
+<div align="center" onClick="location='index.htm';" id="Layer1" style="position:absolute; left:111px; top:73px; width:678px; height:666px; z-index:1">
+<br>
+<br>
+<br>
+<DIV class="poemtitle">Monsters' Lament</DIV><br>
+  <div align="center"><img src="images/monsterslament.gif"><br>
+  <a class="artistline" href="javascript:goauthor('shepherd');">art by Salli Shepherd</a></div><br>
+<TABLE><TR><TD>
+<br>
+<br>
+Jenny Greenteeth sighs<br />
+brackish bubbles, rippling the algae<br />
+nimbus of her hair. She's leaner <br />
+than in days when twiggy fingers <br />
+more often snatched at flailing limbs,<br /> 
+when arms would clasp<br />
+the wriggling strays until they slept.<br />
+Now  her pond-bed gasps with Koi, <br />
+and all she cradles <br />
+is an empty swell of rains. <br />
+<br />
+Rawhead-and-Bloody-Bones <br />
+scratches cracked claws down <br />
+his scabby ribs; gates have sprouted <br />
+metal teeth, and yards are stalked <br />
+at night by crop-eared beasts <br />
+with jaws that put his own <br />
+to shame. Flourescent lighting <br />
+makes his nose bleed, whores <br />
+and babies alike preserved <br />
+behind its glaring rails. <br />
+<br />
+Boogey Man wibbles his fingers <br />
+through duckweed, murmurs sympathy: <br />
+parents now tell sugared fictions <br />
+in which Darkness ever fails <br />
+against the Light, the hope <br />
+their children never know <br />
+a killer's smile or alley-trap, <br />
+the snap of toddlers breaking <br />
+in their hands. <br />
+<br />
+The moon pales, sulks behind clouds. <br />
+Jenny sinks below pond-scum. <br />
+Boogey fishes brittle treats <br />
+from his pocket for the restless Bones. <br />
+Perhaps tonight they'll catch <br />
+an ankle, wrack a fugue-dream, <br />
+resurrect the notion of fear itself <br />
+as prophylactic, the comfort <br />
+of knowing something is still out there, <br />
+looming in the dark.<br />
+<br /><br>
+<br>
+
+<a class="byline" href="javascript:goauthor('shepherd')">by Salli Shepherd</a><br><br><br>
+</TD></TR></TABLE>
+</div>
+		
+<div id="Layer2" onClick="location='index.htm';" onMouseOver="this.style.cursor='hand';" style="position:absolute; left:194px; top:12px; width:500px; height:32px; z-index:2"></div>
+<div id="Layer3" onMouseOver="this.style.cursor='hand';" onClick="gopage(-1);" style="position:absolute; left:13px; top:264px; width:88px; height:146px; z-index:3"></div>
+<div id="Layer4" onMouseOver="this.style.cursor='hand';" onClick="gopage(1);" style="position:absolute; left:797px; top:264px; width:88px; height:146px; z-index:4"></div>
+</body>
+</html>

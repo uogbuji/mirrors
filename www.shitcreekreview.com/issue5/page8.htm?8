@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Waiting</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="scr.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../javascript/global.js"></script>
+</head>
+
+<body text="#000000" bgcolor="#dcdedd">
+
+		
+<div align="center" onClick="location='index.htm';" id="Layer1" style="position:absolute; left:111px; top:73px; width:678px; height:666px; z-index:1">
+<br>
+<br>
+<br>
+<DIV class="poemtitle">Waiting</DIV><br>
+  <div align="center"><img src="images/waiting.jpg"><br>
+  <a class="artistline" href="javascript:goauthor('copeland');">art by Kim Copeland</a></div><br>
+<TABLE><TR><TD>
+<br>
+<br>
+
+Spring fell all over me this year in a flurry of scattered miles,<br />
+Driving back and forth across three states, thumbing through<br />
+ <br />
+my mind for words to say as my brother sits by his wife,<br />
+my help nothing more than a thin slice of light across the floor.<br />
+ <br />
+On the first visit she sits up, talks about the jazz her son plays,<br />
+big name venues, the shuffle and shift it took to cover her classes.<br />
+ <br />
+She wears a wig, lipstick, watches the news on a miniature<br />
+TV, keeps up with things, makes lists, even speaks<br />
+ <br />
+long distance on the telephone.  After two weeks I return to find<br />
+her pressing my brother to buy hanging flowers for the porch,<br />
+ <br />
+fuchsia, though she can’t name the bloom.  She doesn’t sit now,<br />
+talks through the muffled gray of drugs, shuns visitors, so I<br />
+ <br />
+wait fretfully with my brother for the ringing of her bell.<br />
+Mostly she sleeps, caught in a wedge of covers.  He carries the thin<br />
+ <br />
+stick, stiff memories, in halting steps to the bathroom.  She avoids<br />
+the mirror,  slips into a room that holds little light.<br />
+ <br />
+Rain comes the last time and I enter the house with mud on my shoes.<br />
+Eggshell quiet.  No sign of anyone.  Upstairs when I see her<br />
+ <br />
+lying on her side, she turns slightly, barely lifts her lips to smile. <br />
+Her head wrapped turban style, the grief gone from her, breathing<br />
+ <br />
+remains.  Watching drops across the pane, my brother stacks unopened mail,<br />
+cracks tins to feed the cat, eats food lifted from bone white paper sacks.<br /><br />
+<br><br>
+<a class="byline" href="javascript:goauthor('kaber')">by Judy Kaber</a><br><br><br>
+</TD></TR></TABLE>
+</div>
+		
+<div id="Layer2" onClick="location='index.htm';" onMouseOver="this.style.cursor='hand';" style="position:absolute; left:194px; top:12px; width:500px; height:32px; z-index:2"></div>
+<div id="Layer3" onMouseOver="this.style.cursor='hand';" onClick="gopage(-1);" style="position:absolute; left:13px; top:264px; width:88px; height:146px; z-index:3"></div>
+<div id="Layer4" onMouseOver="this.style.cursor='hand';" onClick="gopage(1);" style="position:absolute; left:797px; top:264px; width:88px; height:146px; z-index:4"></div>
+</body>
+</html>
